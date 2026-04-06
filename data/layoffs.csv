@@ -1,6 +1,15 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Vimeo,New York City,,4/3/2026,,Consumer,https://hoodline.com/2026/04/vimeo-axes-quarter-of-midtown-staff-after-billion-dollar-takeover/,Post-IPO,450,United States,4/4/2026
+Oracle,SF Bay Area,30000.0,3/31/2026,,Other,https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html,Post-IPO,,United States,3/31/2026
+Monzo,"London, Non-U.S.",50.0,3/31/2026,,Finance,https://www.bloomberg.com/news/articles/2026-03-31/fintech-monzo-shutting-down-us-operations-to-focus-on-uk-europe,Series F,324,United Kingdom,3/31/2026
+Covrzy,"Bengaluru, Non-U.S.",,3/31/2026,1.0,Finance,https://inc42.com/buzz/antler-backed-covrzy-shuts-down-due-to-cash-crunch/,Seed,,India,4/4/2026
+Rec Room,Seattle,,3/31/2026,1.0,Consumer,https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/,Series F,294,United States,4/1/2026
+Yupp,SF Bay Area,,3/31/2026,1.0,AI,https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/,Seed,33,United States,4/1/2026
+Enpal,"Berlin, Non-U.S.",100.0,3/27/2026,,Energy,https://www.businessinsider.de/gruenderszene/business/enpal-alle-zugaenge-kurz-nach-bekanntgabe-gesperrt-fast-100-mitarbeiter-entlassen/,Series E,3500,Germany,3/31/2026
+Monte Carlo,SF Bay Area,,3/26/2026,0.3,Data,https://www.linkedin.com/feed/update/urn:li:activity:7442678720647184385/,Series D,236,United States,3/31/2026
 Meta,SF Bay Area,700.0,3/25/2026,0.01,Consumer,https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html?unlocked_article_code=1.V1A.GoAa.Bb73ytbBTorE,Post-IPO,26000,United States,3/25/2026
 Epic Games,Raleigh,1000.0,3/24/2026,,Consumer,https://www.epicgames.com/site/en-US/news/todays-layoffs,Unknown,6400,United States,3/24/2026
+Zendesk,SF Bay Area,100.0,3/24/2026,,Support,Internal memo,Acquired,85,United States,3/31/2026
 OpenText,"Waterloo, Non-U.S.",,3/24/2026,,Data,https://betakit.com/opentext-employees-report-job-cuts-tied-to-apparent-restructuring/,Post-IPO,1100,Canada,3/25/2026
 Spotify,"Stockholm, Non-U.S.",15.0,3/23/2026,,Media,https://variety.com/2026/digital/news/spotify-podcast-layoffs-the-ringer-spotify-studios-1236697019/,Post-IPO,2100,Sweden,3/25/2026
 Gemini,New York City,,3/20/2026,0.3,Crypto,https://www.bloomberg.com/news/articles/2026-03-19/winklevosses-says-jobs-cuts-at-gemini-exchange-reach-30?embedded-checkout=true,Unknown,423,United States,3/22/2026
