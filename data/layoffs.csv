@@ -1,5 +1,11 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+GoPro,SF Bay Area,145.0,4/7/2026,0.23,Consumer,https://www.wsj.com/business/gopro-to-eliminate-23-of-workforce-in-cost-cutting-move-ca5ba06b,Post-IPO,288,United States,4/8/2026
+Pendo,Raleigh,90.0,4/7/2026,0.1,Product,https://www.axios.com/local/raleigh/2026/04/07/raleigh-software-unicorn-pendo-layoffs-jobs,Series F,469,United States,4/8/2026
+Bolt,SF Bay Area,,4/5/2026,0.33,Finance,https://www.pymnts.com/digital-payments/2026/bolt-cuts-third-of-staff-amid-new-ai-focus/,Series E,1300,United States,4/7/2026
+NeuroPixel.AI,"Bengaluru, Non-U.S.",,4/3/2026,1.0,Retail,https://entrackr.com/news/flipkart-backed-neuropixelai-shuts-operations-amid-financial-strain-11448982,Seed,1,India,4/7/2026
 Vimeo,New York City,,4/3/2026,,Consumer,https://hoodline.com/2026/04/vimeo-axes-quarter-of-midtown-staff-after-billion-dollar-takeover/,Post-IPO,450,United States,4/4/2026
+Meta,SF Bay Area,200.0,4/2/2026,,Consumer,https://www.sfchronicle.com/tech/article/meta-layoffs-silicon-valley-22186184.php,Post-IPO,26000,United States,4/7/2026
+Sonos,Santa Barbara,,4/1/2026,,Consumer,https://www.bloomberg.com/news/articles/2026-04-01/sonos-makes-marketing-cuts-as-new-cmo-reshapes-division,Post-IPO,455.2,United States,4/7/2026
 Oracle,SF Bay Area,30000.0,3/31/2026,,Other,https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html,Post-IPO,,United States,3/31/2026
 Monzo,"London, Non-U.S.",50.0,3/31/2026,,Finance,https://www.bloomberg.com/news/articles/2026-03-31/fintech-monzo-shutting-down-us-operations-to-focus-on-uk-europe,Series F,324,United Kingdom,3/31/2026
 Covrzy,"Bengaluru, Non-U.S.",,3/31/2026,1.0,Finance,https://inc42.com/buzz/antler-backed-covrzy-shuts-down-due-to-cash-crunch/,Seed,,India,4/4/2026
@@ -7,7 +13,6 @@ Rec Room,Seattle,,3/31/2026,1.0,Consumer,https://techcrunch.com/2026/03/31/socia
 Yupp,SF Bay Area,,3/31/2026,1.0,AI,https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/,Seed,33,United States,4/1/2026
 Enpal,"Berlin, Non-U.S.",100.0,3/27/2026,,Energy,https://www.businessinsider.de/gruenderszene/business/enpal-alle-zugaenge-kurz-nach-bekanntgabe-gesperrt-fast-100-mitarbeiter-entlassen/,Series E,3500,Germany,3/31/2026
 Monte Carlo,SF Bay Area,,3/26/2026,0.3,Data,https://www.linkedin.com/feed/update/urn:li:activity:7442678720647184385/,Series D,236,United States,3/31/2026
-Meta,SF Bay Area,700.0,3/25/2026,0.01,Consumer,https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html?unlocked_article_code=1.V1A.GoAa.Bb73ytbBTorE,Post-IPO,26000,United States,3/25/2026
 Epic Games,Raleigh,1000.0,3/24/2026,,Consumer,https://www.epicgames.com/site/en-US/news/todays-layoffs,Unknown,6400,United States,3/24/2026
 Zendesk,SF Bay Area,100.0,3/24/2026,,Support,Internal memo,Acquired,85,United States,3/31/2026
 OpenText,"Waterloo, Non-U.S.",,3/24/2026,,Data,https://betakit.com/opentext-employees-report-job-cuts-tied-to-apparent-restructuring/,Post-IPO,1100,Canada,3/25/2026
@@ -4341,3 +4346,4 @@ HopSkipDrive,Los Angeles,8.0,3/13/2020,0.1,Transportation,https://layoffs.fyi/20
 Panda Squad,SF Bay Area,6.0,3/13/2020,0.75,Consumer,https://twitter.com/danielsinger/status/1238545571092160514,Seed,1,United States,4/17/2020
 Tamara Mellon,Los Angeles,20.0,3/12/2020,0.4,Retail,https://layoffs.fyi/list/tamara-mellon/,Series C,90,United States,3/31/2020
 EasyPost,Salt Lake City,75.0,3/11/2020,,Logistics,https://www.bizjournals.com/louisville/news/2020/03/11/logistics-company-ceasing-operations-planning.html,Series A,12,United States,3/31/2020
+Meta,SF Bay Area,700.0,,0.01,Consumer,https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html?unlocked_article_code=1.V1A.GoAa.Bb73ytbBTorE,Post-IPO,26000,United States,3/25/2026
