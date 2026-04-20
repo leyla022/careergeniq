@@ -1,4 +1,12 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Shutterfly,"Haifa, Non-U.S.",80.0,4/16/2026,,Manufacturing,https://www.calcalistech.com/ctechnews/article/rkx2avanzg,Post-IPO,50,United States,4/17/2026
+Snap,Los Angeles,1000.0,4/15/2026,0.16,Consumer,https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html,Post-IPO,4900,United States,4/15/2026
+UKG,Boston,950.0,4/15/2026,,HR,https://www.sun-sentinel.com/2026/04/16/ukg-formerly-ultimate-software-lays-off-950-employees-many-from-south-florida-offices/,Unknown,,United States,4/17/2026
+Productboard,SF Bay Area,,4/15/2026,0.3,Product,https://www.linkedin.com/pulse/productboard-going-ai-only-heres-what-means-hubert-palan-h1ozc/?trackingId=xrFN60pCTAaxJwMPkmzg1Q%3D%3D,Series D,,United States,4/16/2026
+Eventbrite,SF Bay Area,,4/13/2026,,Consumer,https://www.reuters.com/technology/bending-spoons-cuts-eventbrite-staff-rolls-out-product-changes-after-takeover-2026-04-13/,Acquired,290,United States,4/17/2026
+StarkWare,"Tel Aviv, Non-U.S.",,4/13/2026,,Crypto,https://www.calcalistech.com/ctechnews/article/sy7u2uq3wx,Series D,273,Israel,4/17/2026
+Cars.com,Chicago,,4/9/2026,0.11,Transportation,https://www.marketwatch.com/story/cars-com-to-lay-off-11-of-full-time-workforce-amid-ai-push-update-bb0c9f35,Acquired,,United States,4/17/2026
+Pepper Pay,Miami,,4/9/2026,1.0,Finance,https://www.americanbanker.com/news/payments-fintech-pepper-pay-declares-bankruptcy,Unknown,,United States,4/17/2026
 GoPro,SF Bay Area,145.0,4/7/2026,0.23,Consumer,https://www.wsj.com/business/gopro-to-eliminate-23-of-workforce-in-cost-cutting-move-ca5ba06b,Post-IPO,288,United States,4/8/2026
 Pendo,Raleigh,90.0,4/7/2026,0.1,Product,https://www.axios.com/local/raleigh/2026/04/07/raleigh-software-unicorn-pendo-layoffs-jobs,Series F,469,United States,4/8/2026
 Bolt,SF Bay Area,,4/5/2026,0.33,Finance,https://www.pymnts.com/digital-payments/2026/bolt-cuts-third-of-staff-amid-new-ai-focus/,Series E,1300,United States,4/7/2026
@@ -13,6 +21,7 @@ Rec Room,Seattle,,3/31/2026,1.0,Consumer,https://techcrunch.com/2026/03/31/socia
 Yupp,SF Bay Area,,3/31/2026,1.0,AI,https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/,Seed,33,United States,4/1/2026
 Enpal,"Berlin, Non-U.S.",100.0,3/27/2026,,Energy,https://www.businessinsider.de/gruenderszene/business/enpal-alle-zugaenge-kurz-nach-bekanntgabe-gesperrt-fast-100-mitarbeiter-entlassen/,Series E,3500,Germany,3/31/2026
 Monte Carlo,SF Bay Area,,3/26/2026,0.3,Data,https://www.linkedin.com/feed/update/urn:li:activity:7442678720647184385/,Series D,236,United States,3/31/2026
+Quandoo,"Berlin, Non-U.S.",,3/26/2026,1.0,Food,https://finance.yahoo.com/markets/stocks/articles/quandoo-shut-restaurant-booking-platform-112913577.html,Acquired,39,Germany,4/17/2026
 Epic Games,Raleigh,1000.0,3/24/2026,,Consumer,https://www.epicgames.com/site/en-US/news/todays-layoffs,Unknown,6400,United States,3/24/2026
 Zendesk,SF Bay Area,100.0,3/24/2026,,Support,Internal memo,Acquired,85,United States,3/31/2026
 OpenText,"Waterloo, Non-U.S.",,3/24/2026,,Data,https://betakit.com/opentext-employees-report-job-cuts-tied-to-apparent-restructuring/,Post-IPO,1100,Canada,3/25/2026
