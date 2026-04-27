@@ -1,5 +1,8 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Acko,"Mumbai, Non-U.S.",60.0,4/20/2026,0.05,Finance,https://inc42.com/buzz/acko-cuts-5-workforce-in-pre-ipo-restructuring/,Unknown,143,India,4/20/2026
+Meta,SF Bay Area,8000.0,4/17/2026,0.1,Consumer,https://www.reuters.com/world/meta-targets-may-20-first-wave-layoffs-additional-cuts-later-2026-2026-04-17/,Post-IPO,26000,United States,4/20/2026
 Shutterfly,"Haifa, Non-U.S.",80.0,4/16/2026,,Manufacturing,https://www.calcalistech.com/ctechnews/article/rkx2avanzg,Post-IPO,50,United States,4/17/2026
+Quora,SF Bay Area,,4/16/2026,,Consumer,https://quorablog.quora.com/Update?ch=10&oid=246876762&share=572b9cd0&srid=57WTZa&target_type=post,Series D,226,United States,4/20/2026
 Snap,Los Angeles,1000.0,4/15/2026,0.16,Consumer,https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html,Post-IPO,4900,United States,4/15/2026
 UKG,Boston,950.0,4/15/2026,,HR,https://www.sun-sentinel.com/2026/04/16/ukg-formerly-ultimate-software-lays-off-950-employees-many-from-south-florida-offices/,Unknown,,United States,4/17/2026
 Productboard,SF Bay Area,,4/15/2026,0.3,Product,https://www.linkedin.com/pulse/productboard-going-ai-only-heres-what-means-hubert-palan-h1ozc/?trackingId=xrFN60pCTAaxJwMPkmzg1Q%3D%3D,Series D,,United States,4/16/2026
@@ -30,6 +33,7 @@ Gemini,New York City,,3/20/2026,0.3,Crypto,https://www.bloomberg.com/news/articl
 Crypto.com,"Singapore, Non-U.S.",,3/19/2026,0.12,Crypto,https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html,Unknown,,Singapore,3/22/2026
 Snowflake,SF Bay Area,,3/19/2026,,Data,https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3,Post-IPO,2900,United States,3/24/2026
 FranShares,Chicago,,3/17/2026,1.0,Finance,https://www.bizjournals.com/chicago/news/2026/03/17/franshares-chicago-startup-shuts-down.html,Seed,6,United States,3/22/2026
+Dell,Austin,11000.0,3/16/2026,0.1,Hardware,https://www.reuters.com/business/world-at-work/dell-workforce-drops-10-fiscal-2026-filing-shows-2026-03-16/,Post-IPO,,United States,4/22/2026
 Stone,"Sao Paulo, Non-U.S.",400.0,3/13/2026,0.03,Finance,https://jovempan.com.br/noticias/economia/stone-faz-demissao-em-massa-e-desliga-cerca-de-400-funcionarios.html,Post-IPO,521,Brazil,3/17/2026
 Digg,New York City,,3/13/2026,,Consumer,https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/,Acquired,49,United States,3/13/2026
 Atlassian,"Sydney, Non-U.S.",1600.0,3/11/2026,0.1,Other,https://au.finance.yahoo.com/news/atlassian-lay-off-1-600-212610757.html?guccounter=1,Post-IPO,210,Australia,3/11/2026
