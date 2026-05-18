@@ -1,4 +1,21 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Kraken,SF Bay Area,150.0,5/15/2026,,Crypto,https://www.bloomberg.com/news/articles/2026-05-15/kraken-cuts-150-workers-after-deploying-ai-ipo-may-slip-to-2027,Unknown,134,United States,5/15/2026
+Innovaccer,SF Bay Area,340.0,5/14/2026,,Healthcare,https://inc42.com/buzz/exclusive-healthtech-unicorn-innovaccer-lays-off-340-employees-in-another-restructuring-round/,Series E,379,United States,5/16/2026
+Dune,"Oslo, Non-U.S.",,5/14/2026,0.25,Crypto,https://x.com/hagaetc/status/2054937771811192837?s=20,Series B,79,Norway,5/15/2026
+Gambling.com Group,"Dublin, Non-U.S.",,5/14/2026,,Other,https://finance.yahoo.com/markets/stocks/articles/gambling-com-group-reports-first-200500152.html,Post-IPO,276,Ireland,5/15/2026
+Cisco,SF Bay Area,4000.0,5/13/2026,0.05,Infrastructure,https://blogs.cisco.com/news/our-path-forward,Post-IPO,2,United States,5/13/2026
+LinkedIn,SF Bay Area,875.0,5/13/2026,0.05,Recruiting,https://www.reuters.com/business/world-at-work/linkedin-is-planning-lay-off-5-staff-latest-tech-sector-cuts-source-says-2026-05-13/,Acquired,154,United States,5/13/2026
+Jumia,"Lagos, Non-U.S.",200.0,5/13/2026,,Retail,https://thekenyatimes.com/latest-kenya-times-news/jumia-announces-job-cuts-as-company-expands-ai-use/,Post-IPO,1200,Nigeria,5/15/2026
+Guesty,"Tel Aviv, Non-U.S.",20.0,5/13/2026,0.02,Travel,https://www.geektime.co.il/guesty-lays-off-20-employees-in-israel/,Series F,411,Israel,5/13/2026
+Breadfast,"Cairo, Non-U.S.",58.0,5/12/2026,,Food,https://www.fwdstart.me/p/egyptian-grocery-delivery-startup-breadfast-cuts-58-tech-staff-months-after-50m-raise,Series C,89,Egypt,5/13/2026
+MRI Software,Cleveland,200.0,5/11/2026,,Real Estate,https://propmodo.com/private-equity-backed-proptech-firm-cuts-200-jobs-cites-ai-adoption/,Acquired,16,United States,5/13/2026
+One Identity,"Dresden, Non-U.S.",41.0,5/11/2026,,Security,https://www.heise.de/news/Verlagerung-ins-Ausland-One-Identity-schliesst-Entwicklung-in-Deutschland-11287793.html,Unknown,,Germany,5/15/2026
+GitLab,SF Bay Area,,5/11/2026,,Product,https://www.bloomberg.com/news/articles/2026-05-11/gitlab-says-will-cut-jobs-to-spend-on-growth-in-agentic-era,Post-IPO,413,United States,5/11/2026
+MessageBird,"Amsterdam, Non-U.S.",,5/11/2026,0.2,Other,https://www.linkedin.com/posts/robertvis_this-is-a-note-i-sent-earlier-today-to-all-share-7459557337901645826-VIus/,Series C,1100,Netherlands,5/13/2026
+ZoomInfo,"Tel Aviv, Non-U.S.",300.0,5/10/2026,,Sales,https://www.geektime.co.il/zoominfo-shuts-down-israeli-rd-center-lays-off-300/,Post-IPO,7,Israel,5/11/2026
+Adda247,"Gurugram, Non-U.S.",200.0,5/10/2026,0.2,Education,https://www.whalesbook.com/news/English/tech/Adda247-Cuts-Staff-Ahead-of-IPO-Signals-Profitability-Push/6a00cbb0707d23e84421af77,Series B,61,India,5/11/2026
+Parker,New York City,,5/9/2026,1.0,Finance,https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/,Series B,57,United States,5/11/2026
+Staffbase,"Chemnitz, Non-U.S.",176.0,5/8/2026,0.22,Other,https://www.msn.com/de-de/finanzen/top-stories/harter-einschnitt-bei-sachsens-einhorn-staffbase-streicht-jede-f%C3%BCnfte-stelle/ar-AA22HHQv,Series E,306,Germany,5/11/2026
 Cloudflare,SF Bay Area,1100.0,5/7/2026,0.2,Security,https://blog.cloudflare.com/building-for-the-future/,Post-IPO,332,United States,5/7/2026
 Bill.com,SF Bay Area,709.0,5/7/2026,0.3,Finance,https://www.bill.com/blog/a-message-to-bill-employees,Post-IPO,280,United States,5/7/2026
 Ticketmaster,Los Angeles,350.0,5/7/2026,0.08,Consumer,https://hoodline.com/2026/05/ticketmaster-axes-350-jobs-as-it-fast-tracks-new-tech/,Acquired,,United States,5/9/2026
@@ -7,7 +24,9 @@ Upwork,SF Bay Area,151.0,5/7/2026,0.24,Other,https://www.upwork.com/press/releas
 Truecaller,"Stockholm, Non-U.S.",70.0,5/7/2026,,Consumer,https://uk.investing.com/news/earnings/toast-shares-tumble-6-as-q1-earnings-fall-short-of-analyst-expectations-93CH-4660610,Post-IPO,101,Sweden,5/7/2026
 Arctic Wolf,Minneapolis,250.0,5/6/2026,0.1,Security,https://www.theregister.com/ai-and-ml/2026/05/06/arctic-wolf-cuts-250-jobs-in-ai-push/5231213,Unknown,899,United States,5/7/2026
 Pocket FM,"Bengaluru, Non-U.S.",100.0,5/6/2026,0.1,Media,https://entrackr.com/exclusive/exclusive-pocket-fm-lets-go-of-over-100-employees-more-job-cuts-may-follow-11806323,Series D,212,India,5/6/2026
+LSports,"Tel Aviv, Non-U.S.",40.0,5/6/2026,0.2,Data,https://www.geektime.co.il/l-sports-lays-off-40-employees-in-israel/,Unknown,,Israel,5/11/2026
 ApnaMart,"Bengaluru, Non-U.S.",35.0,5/6/2026,0.1,Food,https://entrackr.com/news/apna-mart-lays-off-10-of-workforce-shifts-base-from-bengaluru-to-gurugram-11805807,Series B,40,India,5/6/2026
+reAlpha,Columbus,,5/6/2026,0.25,Real Estate,https://markets.businessinsider.com/news/stocks/realpha-reduces-workforce-by-approximately-25-and-consolidates-vendor-spend-targeting-2-million-in-annualized-savings-as-ai-advancements-drive-organizational-efficiency-1036115751,Post-IPO,229,United States,5/10/2026
 PayPal,SF Bay Area,4760.0,5/5/2026,0.2,Finance,https://www.wsj.com/business/earnings/paypal-to-cut-costs-after-profit-falls-dc42baf9,Post-IPO,216,United States,5/6/2026
 Coinbase,SF Bay Area,700.0,5/5/2026,0.14,Crypto,https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/,Post-IPO,549,United States,5/5/2026
 Freshworks,SF Bay Area,500.0,5/5/2026,0.11,Support,https://www.reuters.com/business/freshworks-cut-11-jobs-ai-reshapes-software-sector-2026-05-05/,Post-IPO,484,United States,5/6/2026
@@ -17,8 +36,10 @@ Shopify,"Ottawa, Non-U.S.",30.0,5/4/2026,,Retail,https://thelogic.co/news/exclus
 Pentera,Boston,40.0,4/27/2026,0.08,Security,https://www.calcalistech.com/ctechnews/article/b1ioncnpzl,Series D,249,United States,4/30/2026
 SuperOps,"Chennai, Non-U.S.",60.0,4/24/2026,0.3,Other,https://inc42.com/buzz/superops-lays-off-30-staff-in-ai-led-restructuring-push/,Series C,54,India,4/30/2026
 Epidemic Sound,"Stockholm, Non-U.S.",150.0,4/21/2026,0.33,Media,https://www.marketscreener.com/news/eqt-backed-epidemic-sound-to-cut-150-jobs-in-ai-pivot-di-ce7f59dad18efe20,Private Equity,509,Sweden,5/7/2026
+GeoComply,"Vancouver, Non-U.S.",68.0,4/21/2026,0.15,Security,https://www.casino.org/news/canadian-gaming-geocomply-workforce-layoffs/,Private Equity,,United States,5/11/2026
 Acko,"Mumbai, Non-U.S.",60.0,4/20/2026,0.05,Finance,https://inc42.com/buzz/acko-cuts-5-workforce-in-pre-ipo-restructuring/,Unknown,143,India,4/20/2026
 Meta,SF Bay Area,8000.0,4/17/2026,0.1,Consumer,https://www.reuters.com/world/meta-targets-may-20-first-wave-layoffs-additional-cuts-later-2026-2026-04-17/,Post-IPO,26000,United States,4/20/2026
+Sama,"Nairobi, Non-U.S.",1108.0,4/16/2026,,AI,https://thekenyatimes.com/latest-kenya-times-news/nairobi-based-data-firm-announces-lay-off-of-1108-employees/,Series B,85,Kenya,5/15/2026
 Shutterfly,"Haifa, Non-U.S.",80.0,4/16/2026,,Manufacturing,https://www.calcalistech.com/ctechnews/article/rkx2avanzg,Post-IPO,50,United States,4/17/2026
 Quora,SF Bay Area,,4/16/2026,,Consumer,https://quorablog.quora.com/Update?ch=10&oid=246876762&share=572b9cd0&srid=57WTZa&target_type=post,Series D,226,United States,4/20/2026
 Snap,Los Angeles,1000.0,4/15/2026,0.16,Consumer,https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html,Post-IPO,4900,United States,4/15/2026
@@ -41,6 +62,7 @@ Welltech,"Limassol, Non-U.S.",225.0,4/3/2026,0.3,Fitness,https://dev.ua/en/news/
 NeuroPixel.AI,"Bengaluru, Non-U.S.",,4/3/2026,1.0,Retail,https://entrackr.com/news/flipkart-backed-neuropixelai-shuts-operations-amid-financial-strain-11448982,Seed,1,India,4/7/2026
 Vimeo,New York City,,4/3/2026,,Consumer,https://hoodline.com/2026/04/vimeo-axes-quarter-of-midtown-staff-after-billion-dollar-takeover/,Post-IPO,450,United States,4/4/2026
 Meta,SF Bay Area,200.0,4/2/2026,,Consumer,https://www.sfchronicle.com/tech/article/meta-layoffs-silicon-valley-22186184.php,Post-IPO,26000,United States,4/7/2026
+MARA,Miami,,4/2/2026,0.15,Crypto,https://blockspace.media/insight/bitcoin-miner-mara-conducts-company-wide-layoffs/,Post-IPO,4100,United States,5/10/2026
 Sonos,Santa Barbara,,4/1/2026,,Consumer,https://www.bloomberg.com/news/articles/2026-04-01/sonos-makes-marketing-cuts-as-new-cmo-reshapes-division,Post-IPO,455.2,United States,4/7/2026
 Oracle,SF Bay Area,30000.0,3/31/2026,,Other,https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html,Post-IPO,,United States,3/31/2026
 Monzo,"London, Non-U.S.",50.0,3/31/2026,,Finance,https://www.bloomberg.com/news/articles/2026-03-31/fintech-monzo-shutting-down-us-operations-to-focus-on-uk-europe,Series F,324,United Kingdom,3/31/2026
@@ -50,6 +72,7 @@ Yupp,SF Bay Area,,3/31/2026,1.0,AI,https://techcrunch.com/2026/03/31/yupp-ai-shu
 Enpal,"Berlin, Non-U.S.",100.0,3/27/2026,,Energy,https://www.businessinsider.de/gruenderszene/business/enpal-alle-zugaenge-kurz-nach-bekanntgabe-gesperrt-fast-100-mitarbeiter-entlassen/,Series E,3500,Germany,3/31/2026
 Monte Carlo,SF Bay Area,,3/26/2026,0.3,Data,https://www.linkedin.com/feed/update/urn:li:activity:7442678720647184385/,Series D,236,United States,3/31/2026
 Quandoo,"Berlin, Non-U.S.",,3/26/2026,1.0,Food,https://finance.yahoo.com/markets/stocks/articles/quandoo-shut-restaurant-booking-platform-112913577.html,Acquired,39,Germany,4/17/2026
+Meta,SF Bay Area,700.0,3/25/2026,0.01,Consumer,https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html?unlocked_article_code=1.V1A.GoAa.Bb73ytbBTorE,Post-IPO,26000,United States,3/25/2026
 Epic Games,Raleigh,1000.0,3/24/2026,,Consumer,https://www.epicgames.com/site/en-US/news/todays-layoffs,Unknown,6400,United States,3/24/2026
 Zendesk,SF Bay Area,100.0,3/24/2026,,Support,Internal memo,Acquired,85,United States,3/31/2026
 OpenText,"Waterloo, Non-U.S.",,3/24/2026,,Data,https://betakit.com/opentext-employees-report-job-cuts-tied-to-apparent-restructuring/,Post-IPO,1100,Canada,3/25/2026
@@ -60,6 +83,7 @@ Snowflake,SF Bay Area,,3/19/2026,,Data,https://www.businessinsider.com/snowflake
 FranShares,Chicago,,3/17/2026,1.0,Finance,https://www.bizjournals.com/chicago/news/2026/03/17/franshares-chicago-startup-shuts-down.html,Seed,6,United States,3/22/2026
 Dell,Austin,11000.0,3/16/2026,0.1,Hardware,https://www.reuters.com/business/world-at-work/dell-workforce-drops-10-fiscal-2026-filing-shows-2026-03-16/,Post-IPO,,United States,4/22/2026
 Stone,"Sao Paulo, Non-U.S.",400.0,3/13/2026,0.03,Finance,https://jovempan.com.br/noticias/economia/stone-faz-demissao-em-massa-e-desliga-cerca-de-400-funcionarios.html,Post-IPO,521,Brazil,3/17/2026
+Loopio,"Toronto, Non-U.S.",36.0,3/13/2026,0.12,Sales,https://betakit.com/citing-market-conditions-loopio-cuts-12-percent-of-staff/,Private Equity,263,Canada,5/10/2026
 Digg,New York City,,3/13/2026,,Consumer,https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/,Acquired,49,United States,3/13/2026
 Atlassian,"Sydney, Non-U.S.",1600.0,3/11/2026,0.1,Other,https://au.finance.yahoo.com/news/atlassian-lay-off-1-600-212610757.html?guccounter=1,Post-IPO,210,Australia,3/11/2026
 InvestCloud,Los Angeles,150.0,3/10/2026,,Finance,https://citywire.com/ria/news/investcloud-lays-off-150-sources/a2485606,Private Equity,54,United States,3/17/2026
@@ -408,6 +432,7 @@ Justworks,New York City,200.0,2/10/2025,,HR,https://www.justworks.com/press/comp
 MessageBird,"Amsterdam, Non-U.S.",120.0,2/10/2025,0.33,Other,https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/,Series C,1100,Netherlands,2/11/2025
 Sprinklr,New York City,500.0,2/6/2025,0.15,Support,https://techcrunch.com/2025/02/06/sprinklr-cuts-500-employees-citing-underwhelming-business-performance/,Post-IPO,429,United States,2/8/2025
 NanoLock,"Tel Aviv, Non-U.S.",,2/6/2025,1.0,Security,https://www.calcalistech.com/ctechnews/article/rjgagxmkyl,Series B,18,Israel,2/26/2025
+Refurbed,"Vienna, Non-U.S.",,2/6/2025,0.2,Retail,https://www.linkedin.com/posts/windp_at-refurbed-were-constantly-evolving-to-share-7293281869981245440-daV4/,Series C,191,Austria,5/15/2026
 Workday,SF Bay Area,1750.0,2/5/2025,0.08,HR,https://www.cnbc.com/2025/02/05/workday-to-cut-1750-jobs-in-ai-push.html,Post-IPO,230,United States,2/5/2025
 Gemini,New York City,200.0,2/5/2025,,Crypto,https://www.reuters.com/business/world-at-work/gemini-space-station-plans-cut-200-jobs-2026-02-05/,Unknown,423,United States,2/6/2026
 Outbrain,New York City,200.0,2/5/2025,,Marketing,https://www.calcalistech.com/ctechnews/article/rkxxve11yyl,Post-IPO,394,United States,2/5/2025
@@ -431,7 +456,7 @@ Digital River,Minneapolis,122.0,1/28/2025,,Retail,https://www.startribune.com/di
 Aurora Labs,"Tel Aviv, Non-U.S.",45.0,1/27/2025,0.6,Transportation,https://www.calcalistech.com/ctechnews/article/rjh2d64ukx,Series C,97,Israel,12/8/2025
 Moon Active,"Tel Aviv, Non-U.S.",,1/27/2025,,Consumer,https://www.calcalistech.com/ctechnews/article/bjejkmruyg,Unknown,425,Israel,1/29/2025
 Stripe,SF Bay Area,300.0,1/21/2025,0.03,Finance,https://www.businessinsider.com/stripe-layoffs-staff-payments-memo-2025-1,Series I,8700,United States,1/21/2025
-Turso,"London, Non-U.S.",,1/21/2025,,Product,https://turso.tech/blog/upcoming-changes-to-the-turso-platform-and-roadmap,Seed,7,Canada,1/29/2025
+Turso,"London, Non-U.S.",,1/21/2025,,Product,https://turso.tech/blog/upcoming-changes-to-the-turso-platform-and-roadmap,Seed,7,United Kingdom,1/29/2025
 Unbabel,"Lisbon, Non-U.S.",66.0,1/20/2025,0.25,Support,https://observador.pt/2025/01/20/unbabel-reduz-equipa-tecnologica-portuguesa-fala-processo-de-reestruturacao-em-curso/,Series C,91,Portugal,1/29/2025
 Chrono24,"Karlsruhe, Non-U.S.",110.0,1/16/2025,0.24,Retail,https://usa.watchpro.com/chrono24-reboot-begins-with-one-in-four-workers-cut/,Series C,205,Germany,1/17/2025
 Pocket FM,"Bengaluru, Non-U.S.",75.0,1/16/2025,,Media,https://yourstory.com/2025/01/pocketfm-75-employees-pushes-toward-profitability,Series D,212,India,1/21/2025
@@ -4385,4 +4410,3 @@ HopSkipDrive,Los Angeles,8.0,3/13/2020,0.1,Transportation,https://layoffs.fyi/20
 Panda Squad,SF Bay Area,6.0,3/13/2020,0.75,Consumer,https://twitter.com/danielsinger/status/1238545571092160514,Seed,1,United States,4/17/2020
 Tamara Mellon,Los Angeles,20.0,3/12/2020,0.4,Retail,https://layoffs.fyi/list/tamara-mellon/,Series C,90,United States,3/31/2020
 EasyPost,Salt Lake City,75.0,3/11/2020,,Logistics,https://www.bizjournals.com/louisville/news/2020/03/11/logistics-company-ceasing-operations-planning.html,Series A,12,United States,3/31/2020
-Meta,SF Bay Area,700.0,,0.01,Consumer,https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html?unlocked_article_code=1.V1A.GoAa.Bb73ytbBTorE,Post-IPO,26000,United States,3/25/2026
