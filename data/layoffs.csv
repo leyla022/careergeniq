@@ -1,5 +1,15 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+SentinelOne,SF Bay Area,230.0,5/29/2026,0.08,Security,https://www.calcalistech.com/ctechnews/article/r1goyeuxgx,Post-IPO,696,United States,5/29/2026
+Rapyd,"Tel Aviv, Non-U.S.",,5/28/2026,,Finance,https://www.calcalistech.com/ctechnews/article/h1r00jfrgzl,Unknown,770,Israel,5/28/2026
+NetApp,SF Bay Area,77.0,5/27/2026,,Data,https://hoodline.com/2026/05/san-jose-mainstay-netapp-axes-77-jobs-as-bay-area-tech-cuts-deepen/,Post-IPO,,United States,5/28/2026
+Lightricks,"Jerusalem, Non-U.S.",,5/27/2026,,Consumer,https://en.globes.co.il/en/article-lightricks-readies-for-another-round-of-layoffs-1001544185,Series D,335,Israel,5/28/2026
+Webflow,SF Bay Area,,5/27/2026,,Marketing,https://webflow.com/blog/evolving-webflow-for-the-agentic-web,Series C,335,United States,5/27/2026
+Groupon,Chicago,400.0,5/26/2026,0.25,Retail,https://www.wsj.com/business/groupon-to-cut-nearly-a-quarter-of-workforce-in-restructuring-a286bcd5,Post-IPO,1400,United States,5/26/2026
+BigID,New York City,,5/26/2026,0.2,Security,https://www.calcalistech.com/ctechnews/article/b1lzc87ezl,Series E,306,United States,5/26/2026
+Picnic,Seattle,,5/26/2026,1.0,Food,https://www.bizjournals.com/seattle/news/2026/05/26/picnic-works-cmbg-advisors-abc-baer-inting-bridges.html,Unknown,52,United States,5/26/2026
+Wix,"Tel Aviv, Non-U.S.",1000.0,5/25/2026,0.2,Marketing,https://www.calcalistech.com/ctechnews/article/b1oebi11xge,Post-IPO,58,Israel,5/25/2026
 ClickUp,San Diego,,5/21/2026,0.22,Other,https://x.com/DJ_CURFEW/status/2057522382315929802?s=20,Series C,537,United States,5/21/2026
+Meta,SF Bay Area,8000.0,5/20/2026,0.1,Consumer,https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html,Post-IPO,26000,United States,4/20/2026
 Intuit,SF Bay Area,3000.0,5/20/2026,0.17,Finance,https://www.reuters.com/business/world-at-work/intuit-cut-17-global-jobs-streamline-operations-memo-shows-2026-05-20/,Post-IPO,18,United States,5/20/2026
 AI21 Labs,"Tel Aviv, Non-U.S.",110.0,5/18/2026,0.61,AI,https://en.globes.co.il/en/article-shashuas-ai21-labs-laying-off-60-of-employees-1001543241,Series D,626,Israel,5/20/2026
 Kraken,SF Bay Area,150.0,5/15/2026,,Crypto,https://www.bloomberg.com/news/articles/2026-05-15/kraken-cuts-150-workers-after-deploying-ai-ipo-may-slip-to-2027,Unknown,134,United States,5/15/2026
@@ -42,7 +52,6 @@ Remarkable,"Oslo, Non-U.S.",200.0,4/22/2026,,Hardware,https://goodereader.com/bl
 Epidemic Sound,"Stockholm, Non-U.S.",150.0,4/21/2026,0.33,Media,https://www.marketscreener.com/news/eqt-backed-epidemic-sound-to-cut-150-jobs-in-ai-pivot-di-ce7f59dad18efe20,Private Equity,509,Sweden,5/7/2026
 GeoComply,"Vancouver, Non-U.S.",68.0,4/21/2026,0.15,Security,https://www.casino.org/news/canadian-gaming-geocomply-workforce-layoffs/,Private Equity,,United States,5/11/2026
 Acko,"Mumbai, Non-U.S.",60.0,4/20/2026,0.05,Finance,https://inc42.com/buzz/acko-cuts-5-workforce-in-pre-ipo-restructuring/,Unknown,143,India,4/20/2026
-Meta,SF Bay Area,8000.0,4/17/2026,0.1,Consumer,https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html,Post-IPO,26000,United States,4/20/2026
 Sama,"Nairobi, Non-U.S.",1108.0,4/16/2026,,AI,https://thekenyatimes.com/latest-kenya-times-news/nairobi-based-data-firm-announces-lay-off-of-1108-employees/,Series B,85,Kenya,5/15/2026
 Shutterfly,"Haifa, Non-U.S.",80.0,4/16/2026,,Manufacturing,https://www.calcalistech.com/ctechnews/article/rkx2avanzg,Post-IPO,50,United States,4/17/2026
 Quora,SF Bay Area,,4/16/2026,,Consumer,https://quorablog.quora.com/Update?ch=10&oid=246876762&share=572b9cd0&srid=57WTZa&target_type=post,Series D,226,United States,4/20/2026
@@ -137,6 +146,7 @@ Pinterest,SF Bay Area,700.0,1/27/2026,0.15,Consumer,https://www.theverge.com/new
 Moon Active,"Tel Aviv, Non-U.S.",110.0,1/27/2026,0.05,Consumer,https://www.calcalistech.com/ctechnews/article/jvbqyjznm,Unknown,425,Israel,3/7/2026
 Expedia,Seattle,,1/26/2026,,Travel,https://www.bizjournals.com/seattle/news/2026/01/26/expedia-layoffs-tech-team-interbay-travel.html,Post-IPO,3300,United States,1/28/2026
 Entropy,New York City,,1/25/2026,1.0,Crypto,https://www.theblock.co/post/386942/entropy-a16z-backed-decentralized-custody-startup-is-winding-down-and-returning-capital-to-investors,Seed,27,United States,1/26/2026
+Roof Stacks,"Istanbul, Non-U.S.",220.0,1/24/2026,,Consumer,https://www.yenicaggazetesi.com/erdoganin-mektup-arkadasinin-sirketinde-skandal-olay-yuzlerce-kisi-isten-cikarildi-995293h.htm,Seed,1,Turkey,5/25/2026
 Autodesk,SF Bay Area,1000.0,1/22/2026,0.07,Other,https://www.reuters.com/business/world-at-work/autodesk-lay-off-about-7-workforce-2026-01-22/,Post-IPO,,United States,1/23/2026
 Shopify,"Ottawa, Non-U.S.",,1/22/2026,,Retail,https://betakit.com/shopify-makes-more-job-cuts-this-time-targeting-partnerships-division/,Post-IPO,122,Canada,1/26/2026
 Vimeo,New York City,,1/21/2026,,Consumer,https://www.businessinsider.com/vimeo-laying-off-staff-after-billion-sale-to-bending-spoons-2026-1,Post-IPO,450,United States,1/23/2026
