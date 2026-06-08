@@ -1,8 +1,16 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Google,SF Bay Area,,6/4/2026,,Consumer,https://www.businessinsider.com/google-clouds-quiet-layoffs-hit-cybersecurity-teams-2026-6,Post-IPO,26,United States,6/7/2026
+Skai,"Tel Aviv, Non-U.S.",100.0,6/3/2026,0.2,Marketing,https://www.calcalistech.com/ctechnews/article/jmjuqzfe6,Series E,60,Israel,6/7/2026
+Uber,SF Bay Area,,6/3/2026,0.01,Transportation,https://www.cnbc.com/2026/06/03/uber-layoffs-people-division-ai.html,Post-IPO,25200,United States,6/4/2026
+GitLab,SF Bay Area,350.0,6/2/2026,0.14,Product,https://www.wsj.com/business/earnings/gitlab-to-cut-14-of-workforce-as-part-of-ai-pivot-493b9813,Post-IPO,413,United States,5/11/2026
+Aleph Farms,"Tel Aviv, Non-U.S.",10.0,6/2/2026,,Food,https://www.calcalistech.com/ctechnews/article/ppgzisqav,Unknown,119,Israel,6/3/2026
+Manhattan Associates,Atlanta,,6/2/2026,0.06,Logistics,https://www.marketwatch.com/story/manhattan-associates-to-cut-6-of-workforce-1ff43c4a,Post-IPO,,United States,6/3/2026
+Lightricks,"Jerusalem, Non-U.S.",75.0,6/1/2026,0.17,Consumer,https://www.calcalistech.com/ctechnews/article/r1dgjt5gmg,Series D,335,Israel,5/28/2026
+Credit Karma,SF Bay Area,117.0,5/30/2026,,Finance,https://www.thestreet.com/employment/credit-karma-lays-off-hundreds-despite-631m-revenue-jump,Acquired,868,United States,6/3/2026
 SentinelOne,SF Bay Area,230.0,5/29/2026,0.08,Security,https://www.calcalistech.com/ctechnews/article/r1goyeuxgx,Post-IPO,696,United States,5/29/2026
+Interview Kickstart,SF Bay Area,50.0,5/29/2026,,Education,https://inc42.com/buzz/blume-backed-interview-kickstart-lays-off-nearly-50-employees-amid-ai-automation-push/,Unknown,10,United States,6/3/2026
 Rapyd,"Tel Aviv, Non-U.S.",,5/28/2026,,Finance,https://www.calcalistech.com/ctechnews/article/h1r00jfrgzl,Unknown,770,Israel,5/28/2026
 NetApp,SF Bay Area,77.0,5/27/2026,,Data,https://hoodline.com/2026/05/san-jose-mainstay-netapp-axes-77-jobs-as-bay-area-tech-cuts-deepen/,Post-IPO,,United States,5/28/2026
-Lightricks,"Jerusalem, Non-U.S.",,5/27/2026,,Consumer,https://en.globes.co.il/en/article-lightricks-readies-for-another-round-of-layoffs-1001544185,Series D,335,Israel,5/28/2026
 Webflow,SF Bay Area,,5/27/2026,,Marketing,https://webflow.com/blog/evolving-webflow-for-the-agentic-web,Series C,335,United States,5/27/2026
 Groupon,Chicago,400.0,5/26/2026,0.25,Retail,https://www.wsj.com/business/groupon-to-cut-nearly-a-quarter-of-workforce-in-restructuring-a286bcd5,Post-IPO,1400,United States,5/26/2026
 BigID,New York City,,5/26/2026,0.2,Security,https://www.calcalistech.com/ctechnews/article/b1lzc87ezl,Series E,306,United States,5/26/2026
@@ -23,7 +31,6 @@ Guesty,"Tel Aviv, Non-U.S.",20.0,5/13/2026,0.02,Travel,https://www.geektime.co.i
 Breadfast,"Cairo, Non-U.S.",58.0,5/12/2026,,Food,https://www.fwdstart.me/p/egyptian-grocery-delivery-startup-breadfast-cuts-58-tech-staff-months-after-50m-raise,Series C,89,Egypt,5/13/2026
 MRI Software,Cleveland,200.0,5/11/2026,,Real Estate,https://propmodo.com/private-equity-backed-proptech-firm-cuts-200-jobs-cites-ai-adoption/,Acquired,16,United States,5/13/2026
 One Identity,"Dresden, Non-U.S.",41.0,5/11/2026,,Security,https://www.heise.de/news/Verlagerung-ins-Ausland-One-Identity-schliesst-Entwicklung-in-Deutschland-11287793.html,Unknown,,Germany,5/15/2026
-GitLab,SF Bay Area,,5/11/2026,,Product,https://www.bloomberg.com/news/articles/2026-05-11/gitlab-says-will-cut-jobs-to-spend-on-growth-in-agentic-era,Post-IPO,413,United States,5/11/2026
 MessageBird,"Amsterdam, Non-U.S.",,5/11/2026,0.2,Other,https://www.linkedin.com/posts/robertvis_this-is-a-note-i-sent-earlier-today-to-all-share-7459557337901645826-VIus/,Series C,1100,Netherlands,5/13/2026
 ZoomInfo,Portland,600.0,5/10/2026,0.2,Sales,https://finance.yahoo.com/news/zoominfo-stock-plunges-company-slashes-133002815.html,Post-IPO,7,United States,5/11/2026
 Adda247,"Gurugram, Non-U.S.",200.0,5/10/2026,0.2,Education,https://www.whalesbook.com/news/English/tech/Adda247-Cuts-Staff-Ahead-of-IPO-Signals-Profitability-Push/6a00cbb0707d23e84421af77,Series B,61,India,5/11/2026
