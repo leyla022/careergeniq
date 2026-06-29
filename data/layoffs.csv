@@ -1,4 +1,19 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+SAS,Raleigh,300.0,6/26/2026,,Data,https://www.newsobserver.com/news/business/article316281262.html,Unknown,,United States,6/27/2026
+Culture Amp,"Melbourne, Non-U.S.",70.0,6/26/2026,0.09,HR,https://www.capitalbrief.com/article/culture-amp-cuts-70-jobs-9-of-its-workforce-in-third-round-of-layoffs-in-3-years-400d7e8e-c8d8-4c82-b4c2-3bb36bdfb5d5/,Series F,257,Australia,6/27/2026
+CompanyCam,Lincoln,,6/26/2026,,Recruiting,https://journalstar.com/news/local/business/article_8361d6df-899e-4843-a5ed-634232e5c917.html,Series C,38,United States,6/27/2026
+JiviAI,"Gurugram, Non-U.S.",,6/26/2026,1.0,Healthcare,https://entrackr.com/exclusive/exclusive-jiviai-shuts-down-founder-ankur-jain-may-rejoin-bharatpe-12108207,Seed,,India,6/27/2026
+Bungie,Seattle,292.0,6/25/2026,,Consumer,https://www.geekwire.com/2026/sony-cuts-significant-number-of-jobs-at-bungie-following-end-of-destiny-2-development/,Acquired,100,United States,6/27/2026
+BitGo,SF Bay Area,90.0,6/25/2026,0.15,Crypto,https://x.com/mikebelshe/status/2070240967479996463,Unknown,171,United States,6/26/2026
+Amperity,Seattle,,6/25/2026,,Marketing,https://www.geekwire.com/2026/amperity-hit-with-layoffs-as-ai-changes-the-shape-of-the-customer-data-startup-and-how-it-operates/,Series D,187,United States,6/26/2026
+Sonos,Santa Barbara,,6/25/2026,0.03,Consumer,https://www.bloomberg.com/news/articles/2026-06-25/sonos-cuts-3-of-staff-across-user-experience-product-teams,Post-IPO,455.2,United States,6/27/2026
+Cyberbit,"Tel Aviv, Non-U.S.",,6/24/2026,,Security,https://www.calcalistech.com/ctechnews/article/r1wrssfffg,Unknown,,Israel,6/25/2026
+Elastic,SF Bay Area,,6/24/2026,0.07,Data,https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees,Post-IPO,162,United States,6/24/2026
+Snyk,Boston,,6/24/2026,,Security,https://snyk.io/blog/a-note-to-our-customers-and-partners/,Series F,849,United States,6/24/2026
+Ethereum Foundation,"Zug, Non-U.S.",54.0,6/23/2026,0.2,Crypto,https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus,Unknown,18,Switzerland,6/23/2026
+Lazada Group ,"Singapore, Non-U.S.",,6/23/2026,0.05,Retail,https://www.techinasia.com/lazada-cuts-5-workforce-sea-market-review,Acquired,7200,Singapore,6/23/2026
+Lucid Motors,SF Bay Area,1500.0,6/22/2026,0.18,Transportation,https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/,Post-IPO,8300,United States,6/23/2026
+91Trucks,"Gurugram, Non-U.S.",100.0,6/22/2026,0.7,Transportation,https://entrackr.com/exclusive/exclusive-91trucks-lays-off-nearly-70-workforce-shuts-stores-as-growth-slows-12061133,Series A,5,India,6/23/2026
 Lastminute,"Amsterdam, Non-U.S.",400.0,6/17/2026,0.25,Travel,https://res.cloudinary.com/lastminute-contenthub/image/upload/v1781669340/DAM/Artwork/lastminute.com/press_release/2026/20260617%20lastminute.com%20Announces%20AI%20Powered%20Transformation%20to%20Drive%20Its%20Next%20Phase%20of%20Growth_EN.pdf,Post-IPO,,Netherlands,6/19/2026
 Optimove,"Tel Aviv, Non-U.S.",,6/17/2026,0.1,Marketing,https://www.intergameonline.com/igaming/news/optimove-cut-jobs-artificial-intelligence-ai,Series A,20,Israel,6/19/2026
 Robinhood,SF Bay Area,290.0,6/16/2026,0.1,Finance,https://www.forbes.com/sites/tylerroush/2026/06/16/robinhood-cuts-10-of-workforce-citing-heavily-layered-operations/,Post-IPO,6200,United States,6/16/2026
@@ -12,6 +27,7 @@ ServiceNow,SF Bay Area,54.0,6/11/2026,,Support,https://www.siliconvalley.com/202
 Opendoor,"Bengaluru, Non-U.S.",250.0,6/10/2026,,Real Estate,https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/,Post-IPO,1900,India,6/12/2026
 Veritone,Los Angeles,111.0,6/10/2026,0.25,AI,https://www.marketwatch.com/story/veritone-to-cut-at-least-25-of-workforce-64eca1cb,Post-IPO,514,United States,6/19/2026
 Shopee,"Singapore, Non-U.S.",,6/10/2026,0.08,Food,https://www.straitstimes.com/business/seas-shopee-cuts-hundreds-of-developer-jobs-during-pivot-to-ai,Unknown,,Singapore,6/10/2026
+Paytm,"Noida, Non-U.S.",400.0,6/9/2026,0.01,Finance,https://www.moneycontrol.com/news/business/paytm-plans-10-staff-increase-in-ai-pivot-with-some-roles-cut-13944509.html,Subsidiary,,India,6/22/2026
 Salesforce,SF Bay Area,86.0,6/9/2026,,Sales,https://www.businessinsider.com/salesforce-cuts-jobs-agentforce-2026-6,Post-IPO,65,United States,6/9/2026
 Verily,SF Bay Area,58.0,6/9/2026,,Healthcare,https://www.bizjournals.com/sanfrancisco/news/2026/06/09/sfbt-digest-tuesday-salesforce-layoffs-ucsf-fine.html,Subsidiary,3500,United States,6/10/2026
 Hailo,"Tel Aviv, Non-U.S.",110.0,6/8/2026,0.5,Manufacturing,https://www.calcalistech.com/ctechnews/article/3hmpcioxj,Series C,344,Israel,6/8/2026
@@ -1304,6 +1320,7 @@ Faire,SF Bay Area,250.0,11/1/2023,0.2,Retail,https://www.businessinsider.com/who
 Sana Benefits,Austin,73.0,11/1/2023,0.5,HR,https://www.sanabenefits.com/blog/changes-at-sana/,Series B,106,United States,11/2/2023
 Olive,Columbus,,10/31/2023,1.0,Healthcare,https://www.axios.com/pro/health-tech-deals/2023/10/31/olive-ai-is-shutting-down,Series H,856,United States,11/2/2023
 StepStone,"Berlin, Non-U.S.",215.0,10/30/2023,0.05,Recruiting,https://aimgroup.com/2023/10/30/recruitment-giant-stepstone-lays-off-more-than-200-people/,Acquired,,Germany,10/31/2023
+Bungie,Seattle,100.0,10/30/2023,0.08,Consumer,https://www.geekwire.com/2023/bungie-hit-with-layoffs-in-latest-gaming-industry-workforce-cuts/,Acquired,100,United States,6/27/2026
 Hubilo,SF Bay Area,50.0,10/30/2023,,Other,https://meetings.skift.com/hubilo-lays-off-at-least-50-staffers-hints-at-desperate-times-for-virtual-platforms/?utm_content=270020146&utm_medium=social&utm_source=linkedin&hss_channel=lcp-6921677,Series B,153,United States,11/2/2023
 Karat Financial,Los Angeles,,10/27/2023,,Finance,https://www.businessinsider.com/creator-startup-karat-lays-off-staff-firing-financial-services-funding-2023-10,Series B,116,United States,10/27/2023
 Hippo Insurance,SF Bay Area,120.0,10/26/2023,0.2,Finance,https://www.theinsurer.com/news/hippo-undertakes-another-round-of-job-cuts-impacting-70-roles/,Post-IPO,1300,United States,10/27/2023
