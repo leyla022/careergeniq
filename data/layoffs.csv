@@ -1,5 +1,12 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Microsoft,Seattle,5500.0,7/1/2026,0.025,Other,https://www.morningstar.com/news/marketwatch/2026070131/microsoft-is-reportedly-planning-thousands-of-layoffs-as-it-spends-on-ai,Post-IPO,1,United States,7/1/2026
+TikTok,"Dublin, Non-U.S.",300.0,7/1/2026,,Consumer,https://startupfortune.com/tiktok-confirms-layoffs-in-singapore-and-three-other-cities-in-one-day/,Acquired,,Ireland,7/5/2026
+Tokopedia,"Jakarta, Non-U.S.",,7/1/2026,0.9,Retail,https://www.techinasia.com/tiktok-confirms-layoffs-in-indonesia,Acquired,2800,Indonesia,7/3/2026
+PlaxidityX,"Tel Aviv, Non-U.S.",80.0,6/30/2026,,Security,https://www.calcalistech.com/ctechnews/article/rj3q6xzmfg,Acquired,25,Israel,7/1/2026
+Elementor,"Tel Aviv, Non-U.S.",100.0,6/29/2026,0.3,Media,https://www.calcalistech.com/ctechnews/article/sycgn6yxze,Series B,65,Israel,6/30/2026
+Equip Health,San Diego,,6/29/2026,0.04,Healthcare,https://bhbusiness.com/2026/06/29/digital-eating-disorder-treatment-startup-equip-health-rolls-out-layoffs/,Unknown,164,United States,6/30/2026
 SAS,Raleigh,300.0,6/26/2026,,Data,https://www.newsobserver.com/news/business/article316281262.html,Unknown,,United States,6/27/2026
+ADP,Jersey City,76.0,6/26/2026,,HR,https://www.nj.gov/labor/assets/PDFs/WARN/2026_WARN_Notice_Archive.pdf,Post-IPO,,United States,6/30/2026
 Culture Amp,"Melbourne, Non-U.S.",70.0,6/26/2026,0.09,HR,https://www.capitalbrief.com/article/culture-amp-cuts-70-jobs-9-of-its-workforce-in-third-round-of-layoffs-in-3-years-400d7e8e-c8d8-4c82-b4c2-3bb36bdfb5d5/,Series F,257,Australia,6/27/2026
 CompanyCam,Lincoln,,6/26/2026,,Recruiting,https://journalstar.com/news/local/business/article_8361d6df-899e-4843-a5ed-634232e5c917.html,Series C,38,United States,6/27/2026
 JiviAI,"Gurugram, Non-U.S.",,6/26/2026,1.0,Healthcare,https://entrackr.com/exclusive/exclusive-jiviai-shuts-down-founder-ankur-jain-may-rejoin-bharatpe-12108207,Seed,,India,6/27/2026
@@ -10,10 +17,12 @@ Sonos,Santa Barbara,,6/25/2026,0.03,Consumer,https://www.bloomberg.com/news/arti
 Cyberbit,"Tel Aviv, Non-U.S.",,6/24/2026,,Security,https://www.calcalistech.com/ctechnews/article/r1wrssfffg,Unknown,,Israel,6/25/2026
 Elastic,SF Bay Area,,6/24/2026,0.07,Data,https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees,Post-IPO,162,United States,6/24/2026
 Snyk,Boston,,6/24/2026,,Security,https://snyk.io/blog/a-note-to-our-customers-and-partners/,Series F,849,United States,6/24/2026
+Oracle,SF Bay Area,21000.0,6/23/2026,0.13,Other,https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html,Post-IPO,,United States,3/31/2026
 Ethereum Foundation,"Zug, Non-U.S.",54.0,6/23/2026,0.2,Crypto,https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus,Unknown,18,Switzerland,6/23/2026
 Lazada Group ,"Singapore, Non-U.S.",,6/23/2026,0.05,Retail,https://www.techinasia.com/lazada-cuts-5-workforce-sea-market-review,Acquired,7200,Singapore,6/23/2026
 Lucid Motors,SF Bay Area,1500.0,6/22/2026,0.18,Transportation,https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/,Post-IPO,8300,United States,6/23/2026
 91Trucks,"Gurugram, Non-U.S.",100.0,6/22/2026,0.7,Transportation,https://entrackr.com/exclusive/exclusive-91trucks-lays-off-nearly-70-workforce-shuts-stores-as-growth-slows-12061133,Series A,5,India,6/23/2026
+Tractive,"Vienna, Non-U.S.",,6/22/2026,,Hardware,https://ooe.orf.at/stories/3359562/,Acquired,38,Austria,6/30/2026
 Lastminute,"Amsterdam, Non-U.S.",400.0,6/17/2026,0.25,Travel,https://res.cloudinary.com/lastminute-contenthub/image/upload/v1781669340/DAM/Artwork/lastminute.com/press_release/2026/20260617%20lastminute.com%20Announces%20AI%20Powered%20Transformation%20to%20Drive%20Its%20Next%20Phase%20of%20Growth_EN.pdf,Post-IPO,,Netherlands,6/19/2026
 Optimove,"Tel Aviv, Non-U.S.",,6/17/2026,0.1,Marketing,https://www.intergameonline.com/igaming/news/optimove-cut-jobs-artificial-intelligence-ai,Series A,20,Israel,6/19/2026
 Robinhood,SF Bay Area,290.0,6/16/2026,0.1,Finance,https://www.forbes.com/sites/tylerroush/2026/06/16/robinhood-cuts-10-of-workforce-citing-heavily-layered-operations/,Post-IPO,6200,United States,6/16/2026
@@ -127,7 +136,6 @@ Vimeo,New York City,,4/3/2026,,Consumer,https://hoodline.com/2026/04/vimeo-axes-
 Meta,SF Bay Area,200.0,4/2/2026,,Consumer,https://www.sfchronicle.com/tech/article/meta-layoffs-silicon-valley-22186184.php,Post-IPO,26000,United States,4/7/2026
 MARA,Miami,,4/2/2026,0.15,Crypto,https://blockspace.media/insight/bitcoin-miner-mara-conducts-company-wide-layoffs/,Post-IPO,4100,United States,5/10/2026
 Sonos,Santa Barbara,,4/1/2026,,Consumer,https://www.bloomberg.com/news/articles/2026-04-01/sonos-makes-marketing-cuts-as-new-cmo-reshapes-division,Post-IPO,455.2,United States,4/7/2026
-Oracle,SF Bay Area,30000.0,3/31/2026,,Other,https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html,Post-IPO,,United States,3/31/2026
 Monzo,"London, Non-U.S.",50.0,3/31/2026,,Finance,https://www.bloomberg.com/news/articles/2026-03-31/fintech-monzo-shutting-down-us-operations-to-focus-on-uk-europe,Series F,324,United Kingdom,3/31/2026
 Covrzy,"Bengaluru, Non-U.S.",,3/31/2026,1.0,Finance,https://inc42.com/buzz/antler-backed-covrzy-shuts-down-due-to-cash-crunch/,Seed,,India,4/4/2026
 Rec Room,Seattle,,3/31/2026,1.0,Consumer,https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/,Series F,294,United States,4/1/2026
@@ -141,8 +149,8 @@ Zendesk,SF Bay Area,100.0,3/24/2026,,Support,Internal memo,Acquired,85,United St
 OpenText,"Waterloo, Non-U.S.",,3/24/2026,,Data,https://betakit.com/opentext-employees-report-job-cuts-tied-to-apparent-restructuring/,Post-IPO,1100,Canada,3/25/2026
 Spotify,"Stockholm, Non-U.S.",15.0,3/23/2026,,Media,https://variety.com/2026/digital/news/spotify-podcast-layoffs-the-ringer-spotify-studios-1236697019/,Post-IPO,2100,Sweden,3/25/2026
 Gemini,New York City,,3/20/2026,0.3,Crypto,https://www.bloomberg.com/news/articles/2026-03-19/winklevosses-says-jobs-cuts-at-gemini-exchange-reach-30?embedded-checkout=true,Unknown,423,United States,3/22/2026
+Snowflake,SF Bay Area,70.0,3/19/2026,,Data,https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3,Post-IPO,2900,United States,3/24/2026
 Crypto.com,"Singapore, Non-U.S.",,3/19/2026,0.12,Crypto,https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html,Unknown,,Singapore,3/22/2026
-Snowflake,SF Bay Area,,3/19/2026,,Data,https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3,Post-IPO,2900,United States,3/24/2026
 FranShares,Chicago,,3/17/2026,1.0,Finance,https://www.bizjournals.com/chicago/news/2026/03/17/franshares-chicago-startup-shuts-down.html,Seed,6,United States,3/22/2026
 Dell,Austin,11000.0,3/16/2026,0.1,Hardware,https://www.reuters.com/business/world-at-work/dell-workforce-drops-10-fiscal-2026-filing-shows-2026-03-16/,Post-IPO,,United States,4/22/2026
 Stone,"Sao Paulo, Non-U.S.",400.0,3/13/2026,0.03,Finance,https://jovempan.com.br/noticias/economia/stone-faz-demissao-em-massa-e-desliga-cerca-de-400-funcionarios.html,Post-IPO,521,Brazil,3/17/2026
