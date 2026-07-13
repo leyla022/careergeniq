@@ -1,5 +1,17 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
-Microsoft,Seattle,5500.0,7/1/2026,0.025,Other,https://www.morningstar.com/news/marketwatch/2026070131/microsoft-is-reportedly-planning-thousands-of-layoffs-as-it-spends-on-ai,Post-IPO,1,United States,7/1/2026
+GoKwik,"New Delhi, Non-U.S.",100.0,7/11/2026,,Finance,https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/,Unknown,68,India,7/12/2026
+MyHeritage,"Tel Aviv, Non-U.S.",500.0,7/8/2026,0.15,Consumer,https://en.globes.co.il/en/article-myheritage-to-lay-off-15-of-workforce-1001548761,Acquired,49,Israel,7/9/2026
+OpenText,"Waterloo, Non-U.S.",400.0,7/8/2026,0.02,Data,https://betakit.com/opentext-lays-off-two-percent-of-its-workforce/,Post-IPO,1100,Canada,7/10/2026
+Mews,"Amsterdam, Non-U.S.",200.0,7/7/2026,0.15,Travel,https://skift.com/2026/07/07/mews-layoffs-restructuring-ai/,Series D,817,Netherlands,7/8/2026
+Darrow,"Tel Aviv, Non-U.S.",60.0,7/7/2026,0.33,Legal,https://www.calcalistech.com/ctechnews/article/hy7svt97ge,Series B,63,Israel,7/8/2026
+Billion Hearts,"Bengaluru, Non-U.S.",,7/7/2026,1.0,Consumer,https://inc42.com/buzz/koo-cofounder-mayank-bidawatka-shuts-new-startup-picsee/,Seed,5,India,7/8/2026
+PokerStars,"Leeds, Non-U.S.",,7/7/2026,,Consumer,https://sbcamericas.com/2026/07/07/pokerstars-layoffs-fanduel-restructure/,Acquired,,United Kingdom,7/8/2026
+Microsoft,Seattle,4800.0,7/6/2026,0.02,Other,https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html,Post-IPO,1,United States,7/6/2026
+Amazon,Seattle,57.0,7/6/2026,,Retail,https://www.geekwire.com/2026/filing-shows-amazon-cut-57-tech-jobs-in-washington-state-in-recent-weeks/,Post-IPO,8100,United States,7/9/2026
+Yield Guild Games,New York City,35.0,7/6/2026,,Crypto,https://cointelegraph.com/news/yield-guild-games-cuts-35-staff-shuts-game-publisher-to-focus-on-ai,Unknown,36,United States,7/8/2026
+Coursera,SF Bay Area,,7/6/2026,,Education,https://www.reuters.com/sustainability/coursera-cut-jobs-post-udemy-merger-restructuring-2026-07-06/,Acquired,458,United States,7/8/2026
+Hotmart,"Belo Horizonte, Non-U.S.",,7/6/2026,0.1,Marketing,https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/06/hotmart-faz-layoff-e-demite-cerca-de-10percent-dos-funcionarios-em-reestruturacao.ghtml,Series C,127,Brazil,7/11/2026
+CorroHealth,"Kochi, Non-U.S.",800.0,7/3/2026,,Healthcare,https://www.onmanorama.com/news/kerala/2026/07/03/kerala-job-cuts-protest.html,Private Equity,376,India,7/6/2026
 TikTok,"Dublin, Non-U.S.",300.0,7/1/2026,,Consumer,https://startupfortune.com/tiktok-confirms-layoffs-in-singapore-and-three-other-cities-in-one-day/,Acquired,,Ireland,7/5/2026
 Tokopedia,"Jakarta, Non-U.S.",,7/1/2026,0.9,Retail,https://www.techinasia.com/tiktok-confirms-layoffs-in-indonesia,Acquired,2800,Indonesia,7/3/2026
 PlaxidityX,"Tel Aviv, Non-U.S.",80.0,6/30/2026,,Security,https://www.calcalistech.com/ctechnews/article/rj3q6xzmfg,Acquired,25,Israel,7/1/2026
@@ -151,6 +163,7 @@ Spotify,"Stockholm, Non-U.S.",15.0,3/23/2026,,Media,https://variety.com/2026/dig
 Gemini,New York City,,3/20/2026,0.3,Crypto,https://www.bloomberg.com/news/articles/2026-03-19/winklevosses-says-jobs-cuts-at-gemini-exchange-reach-30?embedded-checkout=true,Unknown,423,United States,3/22/2026
 Snowflake,SF Bay Area,70.0,3/19/2026,,Data,https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3,Post-IPO,2900,United States,3/24/2026
 Crypto.com,"Singapore, Non-U.S.",,3/19/2026,0.12,Crypto,https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html,Unknown,,Singapore,3/22/2026
+Algorand Foundation,"Singapore, Non-U.S.",,3/18/2026,0.25,Crypto,https://x.com/AlgoFoundation/status/2034298850878652616,Unknown,,Singapore,7/6/2026
 FranShares,Chicago,,3/17/2026,1.0,Finance,https://www.bizjournals.com/chicago/news/2026/03/17/franshares-chicago-startup-shuts-down.html,Seed,6,United States,3/22/2026
 Dell,Austin,11000.0,3/16/2026,0.1,Hardware,https://www.reuters.com/business/world-at-work/dell-workforce-drops-10-fiscal-2026-filing-shows-2026-03-16/,Post-IPO,,United States,4/22/2026
 Stone,"Sao Paulo, Non-U.S.",400.0,3/13/2026,0.03,Finance,https://jovempan.com.br/noticias/economia/stone-faz-demissao-em-massa-e-desliga-cerca-de-400-funcionarios.html,Post-IPO,521,Brazil,3/17/2026
@@ -209,7 +222,6 @@ Roof Stacks,"Istanbul, Non-U.S.",220.0,1/24/2026,,Consumer,https://www.yenicagga
 Autodesk,SF Bay Area,1000.0,1/22/2026,0.07,Other,https://www.reuters.com/business/world-at-work/autodesk-lay-off-about-7-workforce-2026-01-22/,Post-IPO,,United States,1/23/2026
 Shopify,"Ottawa, Non-U.S.",,1/22/2026,,Retail,https://betakit.com/shopify-makes-more-job-cuts-this-time-targeting-partnerships-division/,Post-IPO,122,Canada,1/26/2026
 Vimeo,New York City,,1/21/2026,,Consumer,https://www.businessinsider.com/vimeo-laying-off-staff-after-billion-sale-to-bending-spoons-2026-1,Post-IPO,450,United States,1/23/2026
-Vimeo,"Tel Aviv, Non-U.S.",,1/20/2026,,Consumer,https://www.calcalistech.com/ctechnews/article/sjtjgbabzx,Post-IPO,450,United States,3/7/2026
 Polygon,"Cayman Islands, Non-U.S.",60.0,1/16/2026,,Crypto,https://www.coindesk.com/business/2026/01/16/polygon-labs-said-to-have-laid-off-60-staff-following-new-usd250-million-acquisition,Unknown,451,Cayman Islands,1/16/2026
 Ericsson,"Stockholm, Non-U.S.",1600.0,1/15/2026,,Other,https://www.reuters.com/business/world-at-work/ericsson-shed-1600-jobs-sweden-2026-01-15/,Post-IPO,663,Sweden,1/16/2026
 Tipalti,SF Bay Area,100.0,1/15/2026,,Finance,https://en.globes.co.il/en/article-tipalti-laying-off-dozens-of-employees-1001532153,Series F,565,United States,1/19/2026
@@ -244,6 +256,7 @@ GenWise,"New Delhi, Non-U.S.",,12/9/2025,1.0,Other,https://inc42.com/buzz/exclus
 Mobileye,"Jerusalem, Non-U.S.",200.0,12/8/2025,0.04,Transportation,https://www.calcalistech.com/ctechnews/article/hjznnzvzzl,Post-IPO,2100,Israel,12/8/2025
 Payoneer,New York City,60.0,12/8/2025,0.06,Finance,https://www.calcalistech.com/ctechnews/article/s1fu4c4zzg,Post-IPO,,United States,12/8/2025
 Teads,New York City,180.0,12/4/2025,0.1,Marketing,https://www.calcalistech.com/ctechnews/article/skb9q0lgwl,Unknown,123,United States,12/10/2025
+Discourse,Dover,,12/4/2025,,Consumer,https://blog.discourse.org/2025/12/our-commitment-to-your-ongoing-success-with-discourse/,Series A,20,United States,7/9/2026
 Cellebrite,"Tel Aviv, Non-U.S.",20.0,12/3/2025,0.01,Other,https://www.calcalistech.com/ctechnews/article/izmghyvm1,Post-IPO,410,Israel,12/8/2025
 Modern Hydrogen,Seattle,,12/3/2025,,Energy,https://fuelcellsworks.com/2025/12/03/green-investment/bill-gates-backed-modern-hydrogen-lays-off-most-of-its-employees-after-decade-long-pursuit-of-clean-energy,Series B,99,United States,12/4/2025
 Aqua Security,"Tel Aviv, Non-U.S.",20.0,12/1/2025,,Security,https://www.calcalistech.com/ctechnews/article/4bzp62ggf,Series E,325,United States,12/2/2025
@@ -283,6 +296,7 @@ Robin AI,"London, Non-U.S.",,10/24/2025,0.33,Legal,https://sifted.eu/articles/ro
 Applied Material,SF Bay Area,1400.0,10/23/2025,0.04,Manufacturing,https://www.bloomberg.com/news/articles/2025-10-23/applied-materials-to-cut-4-of-global-staff-after-sales-slow,Post-IPO,2100,United States,10/25/2025
 Rivian,Los Angeles,600.0,10/23/2025,0.04,Transportation,https://www.reuters.com/business/autos-transportation/rivian-lay-off-more-than-600-workers-amid-ev-pullback-wsj-reports-2025-10-23/,Post-IPO,10700,United States,10/25/2025
 Kaseya,Miami,200.0,10/23/2025,,Security,https://www.crn.com/news/channel-news/2026/kaseya-lays-off-5-percent-of-workforce-to-align-our-go-to-market-teams?itc=refresh,Private Equity,547,United States,1/13/2026
+AirSlate,Boston,170.0,10/23/2025,,Other,https://www.bizjournals.com/boston/news/2025/10/23/airslate-layoffs-2025.html,Series B,181,United States,7/11/2026
 Altruist,SF Bay Area,50.0,10/23/2025,0.15,Finance,https://www.investmentnews.com/ria-news/altruist-lays-off-50-employees-but-ceo-says-profitability-is-in-sight/262681,Series E,449,United States,10/25/2025
 Meta,SF Bay Area,600.0,10/22/2025,,Consumer,https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html,Post-IPO,26000,United States,10/22/2025
 Ludeo,Los Angeles,25.0,10/20/2025,0.5,Consumer,https://www.calcalistech.com/ctechnews/article/bjukuox0xe,Series A,42,United States,10/25/2025
@@ -410,7 +424,7 @@ Climeworks,"Zurich, Non-U.S.",106.0,5/21/2025,0.22,Energy,https://www.bloomberg.
 Builder.ai,"London, Non-U.S.",,5/20/2025,1.0,AI,https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/,Series D,445,United Kingdom,5/22/2025
 Luminar,Orlando,,5/20/2025,,Transportation,https://techcrunch.com/2025/05/20/luminar-kicks-off-another-round-of-layoffs-amid-ceos-sudden-resignation/,Post-IPO,780,United States,5/26/2025
 Blink Charging,Baltimore,,5/19/2025,0.2,Other,https://blinkcharging.com/news/blink-charging-announces-workforce-reduction-to-accelerate-blinkforward-initiative-and-strengthen-global-market-position,Post-IPO,110,United States,5/22/2025
-VerSe Innovation copy,"Bengaluru, Non-U.S.",350.0,5/18/2025,,Media,https://inc42.com/buzz/josh-dailyhunt-parent-verse-innovation-lays-off-350-employees/,Series J,1700,India,5/22/2025
+VerSe Innovation,"Bengaluru, Non-U.S.",350.0,5/18/2025,,Media,https://inc42.com/buzz/josh-dailyhunt-parent-verse-innovation-lays-off-350-employees/,Series J,1700,India,5/22/2025
 GroundGame Health,Tampa Bay,97.0,5/15/2025,,Healthcare,https://www.bizjournals.com/tampabay/news/2025/05/15/groundgame-health-layoffs.html,Series A,17,United States,5/16/2025
 Noogata,"Tel Aviv, Non-U.S.",10.0,5/15/2025,1.0,AI,https://www.calcalistech.com/ctechnews/article/bjluv00711xe,Series A,28,Israel,5/16/2025
 Amazon,Seattle,100.0,5/14/2025,,Retail,https://www.cnbc.com/2025/05/14/amazon-lays-off-about-100-employees-in-devices-and-services-unit.html,Post-IPO,8100,United States,5/16/2025
@@ -433,7 +447,6 @@ Expedia,Seattle,,4/28/2025,0.03,Travel,https://skift.com/2025/04/28/expedia-rest
 Spotter,Los Angeles,,4/28/2025,,Other,https://www.businessinsider.com/amazon-backed-creator-startup-spotter-lays-off-staffers-2025-5,Unknown,238,United States,5/3/2025
 Tomorrow,Seattle,,4/28/2025,1.0,Hardware,https://thespoon.tech/next-gen-fridge-startup-tomorrow-shuts-down/,Unknown,,United States,5/3/2025
 Cars24,"Gurugram, Non-U.S.",200.0,4/26/2025,,Transportation,https://entrackr.com/exclusive/exclusive-cars24-lays-off-200-employees-9003193,Series G,1300,India,4/29/2025
-Cars24,"Gurugram, Non-U.S.",200.0,4/26/2025,,Transportation,https://inc42.com/buzz/cars24-lays-off-200-staff-in-restructuring-exercise/,Series G,1300,India,12/9/2025
 SambaNova,SF Bay Area,77.0,4/25/2025,0.15,AI,https://www.eetimes.com/sambanova-lays-off-15-of-workforce-to-refocus-on-inference/,Series D,1100,United States,5/3/2025
 Meta,SF Bay Area,100.0,4/24/2025,,Consumer,https://www.bloomberg.com/news/articles/2025-04-24/meta-lays-off-more-than-100-staff-across-reality-labs-unit,Post-IPO,26000,United States,4/29/2025
 Katana,"Tallinn, Non-U.S.",75.0,4/24/2025,,Other,https://majandus.postimees.ee/8236396/koondamised-ei-rauge-tootukassa-sai-seitse-koondamisteadet,Series B,67,Estonia,5/20/2026
@@ -477,7 +490,7 @@ LiveRamp,SF Bay Area,65.0,3/5/2025,0.05,Marketing,https://www.benzinga.com/news/
 Ola Electric,"Bengaluru, Non-U.S.",1000.0,3/3/2025,,Transportation,https://inc42.com/buzz/ola-electric-to-cut-over-1k-jobs-amid-rising-losses-report/,Post-IPO,1700,India,3/5/2025
 Rec Room,Seattle,,3/3/2025,0.16,Consumer,https://blog.recroom.com/posts/2025/3/3/rec-room-update-march-2025,Series F,294,United States,3/5/2025
 ANS Commerce,"Gurugram, Non-U.S.",,3/2/2025,1.0,Retail,https://www.etnownews.com/technology/flipkart-shuts-down-ans-commerce-after-3-years-lays-off-employees-amid-e-commerce-restructuring-details-article-118657546,Acquired,2,India,3/3/2025
-HP,SF Bay Area,4000.0,2/28/2025,0.1,Hardware,https://www.sfchronicle.com/tech/article/hp-job-cuts-tariff-concerns-20193141.php,Post-IPO,,United States,11/27/2025
+HP,SF Bay Area,2000.0,2/28/2025,,Hardware,https://www.sfchronicle.com/tech/article/hp-job-cuts-tariff-concerns-20193141.php,Post-IPO,,United States,11/27/2025
 Grubhub,SF Bay Area,500.0,2/28/2025,0.23,Food,https://www.reuters.com/technology/food-delivery-company-grubhub-lay-off-500-positions-2025-02-28/,Acquired,284,United States,3/1/2025
 Autodesk,SF Bay Area,1350.0,2/27/2025,0.09,Other,https://www.cnbc.com/2025/02/27/autodesk-says-it-will-cut-1350-employees.html,Post-IPO,,United States,2/28/2025
 Digimarc,Portland,90.0,2/27/2025,0.4,Other,https://www.oregonlive.com/silicon-forest/2025/02/digimarc-shares-plunge-as-oregon-company-lays-off-40-of-its-staff.html,Post-IPO,105,United States,3/5/2025
@@ -1044,7 +1057,7 @@ Pure Storage,SF Bay Area,275.0,2/8/2024,,Data,https://blocksandfiles.com/2024/02
 Otovo,"Oslo, Non-U.S.",65.0,2/8/2024,0.15,Energy,https://www.mynewsdesk.com/otovo/pressreleases/otovo-q4-2023-cost-cuts-and-efficiency-program-executed-ready-for-2024-3302572,Post-IPO,247,Norway,2/20/2024
 Getaround,SF Bay Area,,2/8/2024,0.3,Transportation,https://techcrunch.com/2024/02/08/car-sharing-company-getaround-cuts-one-third-of-u-s-workforce/,Post-IPO,948,United States,2/8/2024
 Journera,Chicago,,2/8/2024,1.0,Travel,https://www.phocuswire.com/jeffrey-katz-journera-shuts-down,Series B,31,United States,2/10/2024
-Grammarly,SF Bay Area,230.0,2/7/2024,,Consumer,https://elbuz.com/en/grammarly-skorochue-230-chleniv-komandi-37-z-yakikh-v-ukraini,Unknown,400,United States,2/7/2024
+Grammarly,SF Bay Area,230.0,2/7/2024,,Consumer,https://techcrunch.com/2024/02/09/grammarly-lays-off-230-employees-as-part-of-a-business-restructuring/,Unknown,400,United States,2/7/2024
 Fireblocks,New York City,20.0,2/7/2024,0.03,Crypto,https://www.calcalistech.com/ctechnews/article/rjkvszzit,Series E,1000,United States,2/7/2024
 Tenable,Baltimore,,2/7/2024,0.05,Security,https://bnnbreaking.com/finance-nav/tenable-reveals-strong-q4-2023-financial-performance-and-strategy-optimization,Post-IPO,565,United States,2/8/2024
 Workfellow,"Espoo, Non-U.S.",,2/7/2024,1.0,HR,https://tech.eu/2024/02/07/finnish-hrtech-startup-workfellow-announces-shutdown-amid-challenges/,Seed,3,Finland,2/7/2024
@@ -2639,7 +2652,7 @@ Autobooks,Detroit,,12/10/2022,,Finance,https://www.crainsdetroit.com/technology/
 Convene,New York City,,12/10/2022,,Real Estate,https://www.linkedin.com/posts/ryan-simonetti-5873887_like-many-companies-weve-had-to-reassess-activity-7007097001259507712-ZpTF/,Unknown,281,United States,12/13/2022
 PharmEasy,"Mumbai, Non-U.S.",,12/10/2022,,Healthcare,https://inc42.com/buzz/pharmeasy-lays-off-more-employees-amid-funding-crunch/,Unknown,1600,India,12/11/2022
 Playtika,"Tel Aviv, Non-U.S.",600.0,12/9/2022,0.15,Consumer,https://en.globes.co.il/en/article-playtika-to-lay-off-600-1001432312,Post-IPO,,Israel,12/11/2022
-Bol.com,"Utrecht, Non-U.S.",300.0,12/9/2022,0.1,Retail,https://ecommercenews.eu/bol-com-lays-off-10-of-staff/,Acquired,,Netherlands,2/5/2024
+Unity,"Utrecht, Non-U.S.",300.0,12/9/2022,0.1,Retail,https://ecommercenews.eu/bol-com-lays-off-10-of-staff/,Acquired,,Netherlands,2/5/2024
 Share Now,"Berlin, Non-U.S.",150.0,12/9/2022,0.36,Transportation,https://www.businessinsider.de/gruenderszene/automotive-mobility/carsharing-sharenow-entlassungen-a/,Acquired,,Germany,12/13/2022
 Alice,"Sao Paulo, Non-U.S.",113.0,12/9/2022,0.16,Healthcare,https://startups.com.br/demissoes/alice-faz-nova-onda-de-demissoes-e-dispensa-113-pessoas/,Series C,174,Brazil,12/11/2022
 Primer,"London, Non-U.S.",85.0,12/9/2022,0.33,Finance,https://techcrunch.com/2022/12/09/primer-the-uk-e-commerce-tech-startup-has-laid-off-one-third-of-its-staff/,Series B,73,United Kingdom,12/9/2022
