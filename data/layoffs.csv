@@ -1,4 +1,8 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Sprout Social,Chicago,260.0,7/15/2026,0.2,Marketing,https://www.marketwatch.com/story/sprout-social-to-cut-20-of-workforce-as-ai-fueled-tech-layoffs-continue-7e2b1b17,Post-IPO,111,United States,7/15/2026
+Redis,SF Bay Area,200.0,7/13/2026,,Data,https://redis.io/blog/ceo-rowan-trollopes-organizational-announcement-to-redis-employees/,Series G,357,United States,7/13/2026
+Gigbanc,"Lagos, Non-U.S.",,7/13/2026,1.0,Finance,https://africabusinesscommunities.com/tech-24/nigerian-fintech-startup-gigbanc-winds-down-operations/,Seed,1,Nigeria,7/14/2026
+Alarum,"Tel Aviv, Non-U.S.",,7/12/2026,,Security,https://www.calcalistech.com/ctechnews/article/4gnx3zo23,Post-IPO,34,Israel,7/13/2026
 GoKwik,"New Delhi, Non-U.S.",100.0,7/11/2026,,Finance,https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/,Unknown,68,India,7/12/2026
 MyHeritage,"Tel Aviv, Non-U.S.",500.0,7/8/2026,0.15,Consumer,https://en.globes.co.il/en/article-myheritage-to-lay-off-15-of-workforce-1001548761,Acquired,49,Israel,7/9/2026
 OpenText,"Waterloo, Non-U.S.",400.0,7/8/2026,0.02,Data,https://betakit.com/opentext-lays-off-two-percent-of-its-workforce/,Post-IPO,1100,Canada,7/10/2026
@@ -119,6 +123,7 @@ Remarkable,"Oslo, Non-U.S.",200.0,4/22/2026,,Hardware,https://goodereader.com/bl
 Noa Technologies,SF Bay Area,69.0,4/22/2026,,Other,https://www.bizjournals.com/sanjose/news/2026/04/22/noa-technologies-gbike-layoffs.html,Unknown,,United States,6/19/2026
 Epidemic Sound,"Stockholm, Non-U.S.",150.0,4/21/2026,0.33,Media,https://www.marketscreener.com/news/eqt-backed-epidemic-sound-to-cut-150-jobs-in-ai-pivot-di-ce7f59dad18efe20,Private Equity,509,Sweden,5/7/2026
 GeoComply,"Vancouver, Non-U.S.",68.0,4/21/2026,0.15,Security,https://www.casino.org/news/canadian-gaming-geocomply-workforce-layoffs/,Private Equity,,United States,5/11/2026
+Zondacrypto,"Tallinn, Non-U.S.",,4/21/2026,,Crypto,https://tvpworld.com/92834466/zonadcrypto-staff-report-chaos-and-mass-layoffs,,,Estonia,7/13/2026
 Qt Company,"Oslo, Non-U.S.",200.0,4/20/2026,,Product,https://www.qt.io/releases/release?slug=insider-information-qt-group-launches-operational-reorganization-to-improve-efficiency,Series B,7,Norway,6/9/2026
 Acko,"Mumbai, Non-U.S.",60.0,4/20/2026,0.05,Finance,https://inc42.com/buzz/acko-cuts-5-workforce-in-pre-ipo-restructuring/,Unknown,143,India,4/20/2026
 Sama,"Nairobi, Non-U.S.",1108.0,4/16/2026,,AI,https://thekenyatimes.com/latest-kenya-times-news/nairobi-based-data-firm-announces-lay-off-of-1108-employees/,Series B,85,Kenya,5/15/2026
@@ -169,6 +174,7 @@ Dell,Austin,11000.0,3/16/2026,0.1,Hardware,https://www.reuters.com/business/worl
 Stone,"Sao Paulo, Non-U.S.",400.0,3/13/2026,0.03,Finance,https://jovempan.com.br/noticias/economia/stone-faz-demissao-em-massa-e-desliga-cerca-de-400-funcionarios.html,Post-IPO,521,Brazil,3/17/2026
 Loopio,"Toronto, Non-U.S.",36.0,3/13/2026,0.12,Sales,https://betakit.com/citing-market-conditions-loopio-cuts-12-percent-of-staff/,Private Equity,263,Canada,5/10/2026
 Digg,New York City,,3/13/2026,,Consumer,https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/,Acquired,49,United States,3/13/2026
+OP Labs,New York City,20.0,3/12/2026,,Crypto,https://www.cryptotimes.io/2026/03/12/op-labs-lays-off-employees/,,,United States,7/13/2026
 Atlassian,"Sydney, Non-U.S.",1600.0,3/11/2026,0.1,Other,https://au.finance.yahoo.com/news/atlassian-lay-off-1-600-212610757.html?guccounter=1,Post-IPO,210,Australia,3/11/2026
 InvestCloud,Los Angeles,150.0,3/10/2026,,Finance,https://citywire.com/ria/news/investcloud-lays-off-150-sources/a2485606,Private Equity,54,United States,3/17/2026
 Flipkart,"Bengaluru, Non-U.S.",500.0,3/6/2026,,Retail,https://inc42.com/buzz/flipkart-lays-off-about-500-employees-post-annual-performance-review/,Acquired,12900,India,3/7/2026
