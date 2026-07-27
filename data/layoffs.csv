@@ -1,4 +1,13 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Patreon,SF Bay Area,93.0,7/23/2026,0.2,Media,https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/,Series F,413,United States,7/24/2026
+Amazon,Port St. Lucie,1110.0,7/22/2026,,Retail,https://www.msn.com/en-us/money/companies/amazon-to-renovate-two-florida-warehouses-for-400m-cut-1-100-jobs/ar-AA28s48O,Post-IPO,8100,United States,7/24/2026
+Monday.com,"Tel Aviv, Non-U.S.",630.0,7/22/2026,0.2,Product,https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/,Post-IPO,384,Israel,7/23/2026
+Amazon,Seattle,,7/22/2026,,Retail,https://www.reuters.com/business/world-at-work/amazon-cuts-jobs-its-artificial-general-intelligence-group-2026-07-22/,Post-IPO,8100,United States,7/24/2026
+Uber,SF Bay Area,,7/22/2026,,Transportation,https://www.bloomberg.com/news/articles/2026-07-22/uber-cuts-10-of-customer-service-jobs-citing-embrace-of-ai,Post-IPO,25200,United States,7/24/2026
+Intel,Sacramento,,7/20/2026,,Hardware,https://www.oregonlive.com/silicon-forest/2026/07/intel-plans-fresh-layoffs-this-time-in-its-data-center-group.html,Post-IPO,12,United States,7/22/2026
+Samsung,New York City,739.0,7/19/2026,,Hardware,https://www.cnbc.com/2026/07/19/samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move-reuters.html,Post-IPO,,United States,7/22/2026
+Samsung,Dallas,100.0,7/19/2026,,Hardware,https://www.cnbc.com/2026/07/19/samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move-reuters.html,Post-IPO,,United States,7/22/2026
+Polygon,"Cayman Islands, Non-U.S.",,7/16/2026,,Crypto,https://www.thestreet.com/crypto/markets/polygon-cuts-jobs-for-second-time-this-year-in-a-bold-pivot,Unknown,451,Cayman Islands,7/20/2026
 Sprout Social,Chicago,260.0,7/15/2026,0.2,Marketing,https://www.marketwatch.com/story/sprout-social-to-cut-20-of-workforce-as-ai-fueled-tech-layoffs-continue-7e2b1b17,Post-IPO,111,United States,7/15/2026
 Redis,SF Bay Area,200.0,7/13/2026,,Data,https://redis.io/blog/ceo-rowan-trollopes-organizational-announcement-to-redis-employees/,Series G,357,United States,7/13/2026
 Gigbanc,"Lagos, Non-U.S.",,7/13/2026,1.0,Finance,https://africabusinesscommunities.com/tech-24/nigerian-fintech-startup-gigbanc-winds-down-operations/,Seed,1,Nigeria,7/14/2026
@@ -71,6 +80,7 @@ Lightricks,"Jerusalem, Non-U.S.",75.0,6/1/2026,0.17,Consumer,https://www.calcali
 Credit Karma,SF Bay Area,117.0,5/30/2026,,Finance,https://www.thestreet.com/employment/credit-karma-lays-off-hundreds-despite-631m-revenue-jump,Acquired,868,United States,6/3/2026
 SentinelOne,SF Bay Area,230.0,5/29/2026,0.08,Security,https://www.calcalistech.com/ctechnews/article/r1goyeuxgx,Post-IPO,696,United States,5/29/2026
 Interview Kickstart,SF Bay Area,50.0,5/29/2026,,Education,https://inc42.com/buzz/blume-backed-interview-kickstart-lays-off-nearly-50-employees-amid-ai-automation-push/,Unknown,10,United States,6/3/2026
+BenchSci,"Toronto, Non-U.S.",68.0,5/28/2026,0.3,Healthcare,https://thelogic.co/briefing/benchsci-lays-off-another-30-of-staff-as-it-embraces-ai-agents/,Series D,164,Canada,7/24/2026
 Amdocs,St. Louis,,5/28/2026,0.07,Support,https://www.calcalistech.com/ctechnews/article/u4qmp07cv,Post-IPO,,United States,6/12/2026
 Rapyd,"Tel Aviv, Non-U.S.",,5/28/2026,,Finance,https://www.calcalistech.com/ctechnews/article/h1r00jfrgzl,Unknown,770,Israel,5/28/2026
 NetApp,SF Bay Area,77.0,5/27/2026,,Data,https://hoodline.com/2026/05/san-jose-mainstay-netapp-axes-77-jobs-as-bay-area-tech-cuts-deepen/,Post-IPO,,United States,5/28/2026
