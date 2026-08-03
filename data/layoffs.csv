@@ -1,20 +1,36 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Chime,SF Bay Area,150.0,7/31/2026,0.1,Finance,https://www.bankingdive.com/news/chime-cut-workforce-10-percent-150-employees-ai-smaller-teams-chris-britt/826730/,Series G,2300,United States,7/31/2026
+Lightspeed Commerce,"Montreal, Non-U.S.",100.0,7/31/2026,0.03,Retail,https://betakit.com/lightspeed-narrows-net-loss-beats-revenue-expectations-in-fiscal-q1/,Post-IPO,1200,Canada,7/31/2026
+GoLemon,"Lagos, Non-U.S.",33.0,7/30/2026,1.0,Retail,https://nairametrics.com/2026/07/30/nigerian-startup-golemon-shuts-down-33-jobs-affected/,Unknown,,Nigeria,7/30/2026
+Krutrim,"Bengaluru, Non-U.S.",20.0,7/28/2026,0.5,AI,https://yourstory.com/2026/07/krutrim-lays-off-nearly-half-workforce,Unknown,304,India,7/29/2026
+Luno,"London, Non-U.S.",,7/28/2026,0.2,Crypto,https://www.bloomberg.com/news/articles/2026-07-28/cryptocurrency-exchange-luno-to-cut-20-of-global-staff,Acquired,13,United Kingdom,7/29/2026
+ServiceNow,SF Bay Area,,7/28/2026,,Support,https://www.businessinsider.com/servicenow-cuts-jobs-amid-global-restructuring-and-ai-focus-2026-7,Post-IPO,84,United States,7/29/2026
+BuzzFeed,New York City,180.0,7/27/2026,0.35,Media,https://www.hollywoodreporter.com/business/business-news/buzzfeed-huffpost-layoffs-1236657384/,Post-IPO,696,United States,7/28/2026
+BitMart,New York City,,7/27/2026,1.0,Crypto,https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down,Series B,10,United States,7/29/2026
+Nothing,"London, Non-U.S.",100.0,7/26/2026,0.12,Hardware,https://sifted.eu/articles/nothing-to-cut-around-100-jobs-in-cost-cutting-push-reports-say,Series C,454,United Kingdom,7/29/2026
+Papaya Gaming,"Tel Aviv, Non-U.S.",30.0,7/26/2026,0.07,Consumer,https://www.calcalistech.com/ctechnews/article/hyrsiu7hfg,Unknown,,Israel,7/27/2026
+Dutch,SF Bay Area,,7/26/2026,,Other,https://startupfortune.com/hims-cofounder-joe-spector-replaced-dutchs-marketing-team-with-ai-and-cut-acquisition-costs-20/,Series B,43,United States,7/27/2026
 Patreon,SF Bay Area,93.0,7/23/2026,0.2,Media,https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/,Series F,413,United States,7/24/2026
+BitMEX,Non-U.S.,,7/23/2026,1.0,Crypto,https://www.cnbc.com/2026/07/23/cryptocurrency-exchange-bitmex-shut-down.html,Seed,,Seychelles,7/27/2026
 Amazon,Port St. Lucie,1110.0,7/22/2026,,Retail,https://www.msn.com/en-us/money/companies/amazon-to-renovate-two-florida-warehouses-for-400m-cut-1-100-jobs/ar-AA28s48O,Post-IPO,8100,United States,7/24/2026
 Monday.com,"Tel Aviv, Non-U.S.",630.0,7/22/2026,0.2,Product,https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/,Post-IPO,384,Israel,7/23/2026
 Amazon,Seattle,,7/22/2026,,Retail,https://www.reuters.com/business/world-at-work/amazon-cuts-jobs-its-artificial-general-intelligence-group-2026-07-22/,Post-IPO,8100,United States,7/24/2026
 Uber,SF Bay Area,,7/22/2026,,Transportation,https://www.bloomberg.com/news/articles/2026-07-22/uber-cuts-10-of-customer-service-jobs-citing-embrace-of-ai,Post-IPO,25200,United States,7/24/2026
+WSC,"Tel Aviv, Non-U.S.",70.0,7/21/2026,0.1,Media,https://www.calcalistech.com/ctechnews/article/skknlch4zl,Series D,136,Israel,7/27/2026
+Movement Labs,New York City,,7/21/2026,1.0,Crypto,https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul,Series B,141,United States,7/27/2026
+Magic Leap,Miami,193.0,7/20/2026,,Consumer,https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/,Series E,4100,United States,7/27/2026
 Intel,Sacramento,,7/20/2026,,Hardware,https://www.oregonlive.com/silicon-forest/2026/07/intel-plans-fresh-layoffs-this-time-in-its-data-center-group.html,Post-IPO,12,United States,7/22/2026
 Samsung,New York City,739.0,7/19/2026,,Hardware,https://www.cnbc.com/2026/07/19/samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move-reuters.html,Post-IPO,,United States,7/22/2026
 Samsung,Dallas,100.0,7/19/2026,,Hardware,https://www.cnbc.com/2026/07/19/samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move-reuters.html,Post-IPO,,United States,7/22/2026
 Polygon,"Cayman Islands, Non-U.S.",,7/16/2026,,Crypto,https://www.thestreet.com/crypto/markets/polygon-cuts-jobs-for-second-time-this-year-in-a-bold-pivot,Unknown,451,Cayman Islands,7/20/2026
 Sprout Social,Chicago,260.0,7/15/2026,0.2,Marketing,https://www.marketwatch.com/story/sprout-social-to-cut-20-of-workforce-as-ai-fueled-tech-layoffs-continue-7e2b1b17,Post-IPO,111,United States,7/15/2026
+Rapid7,Boston,21.0,7/14/2026,0.01,Security,https://www.bostonglobe.com/2026/07/14/business/rapid7-layoffs-snyk-cybersecurity-jobs/,Post-IPO,89,United States,7/27/2026
 Redis,SF Bay Area,200.0,7/13/2026,,Data,https://redis.io/blog/ceo-rowan-trollopes-organizational-announcement-to-redis-employees/,Series G,357,United States,7/13/2026
 Gigbanc,"Lagos, Non-U.S.",,7/13/2026,1.0,Finance,https://africabusinesscommunities.com/tech-24/nigerian-fintech-startup-gigbanc-winds-down-operations/,Seed,1,Nigeria,7/14/2026
 Alarum,"Tel Aviv, Non-U.S.",,7/12/2026,,Security,https://www.calcalistech.com/ctechnews/article/4gnx3zo23,Post-IPO,34,Israel,7/13/2026
 GoKwik,"New Delhi, Non-U.S.",100.0,7/11/2026,,Finance,https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/,Unknown,68,India,7/12/2026
-MyHeritage,"Tel Aviv, Non-U.S.",500.0,7/8/2026,0.15,Consumer,https://en.globes.co.il/en/article-myheritage-to-lay-off-15-of-workforce-1001548761,Acquired,49,Israel,7/9/2026
 OpenText,"Waterloo, Non-U.S.",400.0,7/8/2026,0.02,Data,https://betakit.com/opentext-lays-off-two-percent-of-its-workforce/,Post-IPO,1100,Canada,7/10/2026
+MyHeritage,"Tel Aviv, Non-U.S.",75.0,7/8/2026,0.15,Consumer,https://en.globes.co.il/en/article-myheritage-to-lay-off-15-of-workforce-1001548761,Acquired,49,Israel,7/9/2026
 Mews,"Amsterdam, Non-U.S.",200.0,7/7/2026,0.15,Travel,https://skift.com/2026/07/07/mews-layoffs-restructuring-ai/,Series D,817,Netherlands,7/8/2026
 Darrow,"Tel Aviv, Non-U.S.",60.0,7/7/2026,0.33,Legal,https://www.calcalistech.com/ctechnews/article/hy7svt97ge,Series B,63,Israel,7/8/2026
 Billion Hearts,"Bengaluru, Non-U.S.",,7/7/2026,1.0,Consumer,https://inc42.com/buzz/koo-cofounder-mayank-bidawatka-shuts-new-startup-picsee/,Seed,5,India,7/8/2026
@@ -173,6 +189,7 @@ Quandoo,"Berlin, Non-U.S.",,3/26/2026,1.0,Food,https://finance.yahoo.com/markets
 Meta,SF Bay Area,700.0,3/25/2026,0.01,Consumer,https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html?unlocked_article_code=1.V1A.GoAa.Bb73ytbBTorE,Post-IPO,26000,United States,3/25/2026
 Epic Games,Raleigh,1000.0,3/24/2026,,Consumer,https://www.epicgames.com/site/en-US/news/todays-layoffs,Unknown,6400,United States,3/24/2026
 Zendesk,SF Bay Area,100.0,3/24/2026,,Support,Internal memo,Acquired,85,United States,3/31/2026
+Flex AI,"Vancouver, Non-U.S.",,3/24/2026,1.0,Fitness,https://betakit.com/personal-training-app-flex-ai-is-shutting-down/,,,Canada,7/27/2026
 OpenText,"Waterloo, Non-U.S.",,3/24/2026,,Data,https://betakit.com/opentext-employees-report-job-cuts-tied-to-apparent-restructuring/,Post-IPO,1100,Canada,3/25/2026
 Spotify,"Stockholm, Non-U.S.",15.0,3/23/2026,,Media,https://variety.com/2026/digital/news/spotify-podcast-layoffs-the-ringer-spotify-studios-1236697019/,Post-IPO,2100,Sweden,3/25/2026
 Gemini,New York City,,3/20/2026,0.3,Crypto,https://www.bloomberg.com/news/articles/2026-03-19/winklevosses-says-jobs-cuts-at-gemini-exchange-reach-30?embedded-checkout=true,Unknown,423,United States,3/22/2026
