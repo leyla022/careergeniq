@@ -1,6 +1,19 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+VideoAmp,Los Angeles,50.0,8/7/2026,0.2,Marketing,https://www.wsj.com/cmo-today/videoamp-cuts-staff-as-ai-agents-take-center-stage-ef6f44d1,Series F,456,United States,8/7/2026
+TikTok,Nashville,250.0,8/6/2026,,Consumer,https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html,Acquired,,United States,8/6/2026
+Etsy,New York City,220.0,8/5/2026,0.12,Retail,https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html,Post-IPO,97,United States,8/5/2026
+Google,SF Bay Area,52.0,8/5/2026,,Consumer,https://www.geekwire.com/2026/google-to-cut-52-employees-in-washington-state/,Post-IPO,26,United States,8/6/2026
+LegalZoom,Austin,,8/5/2026,0.13,Legal,https://finance.yahoo.com/markets/stocks/articles/legalzoom-com-inc-q2-2026-025809440.html,Post-IPO,952,United States,8/7/2026
+Zillow,Seattle,500.0,8/4/2026,0.07,Real Estate,https://www.geekwire.com/2026/zillow-cuts-more-than-500-jobs-in-its-largest-layoff-of-the-year/,Post-IPO,97,United States,8/4/2026
+80 Acres Farms,Cincinnati,,8/4/2026,1.0,Food,https://agfundernews.com/indoor-ag-heavyweight-80-acres-farms-to-cease-operations,Unknown,275,United States,8/4/2026
+jalebi.io,"Dubai, Non-U.S.",,8/4/2026,1.0,Food,https://jawlah.co/en/61711,Seed,,UAE,8/4/2026
+Nutanix,SF Bay Area,,8/4/2026,0.05,Infrastructure,https://www.crn.com/news/cloud/2026/nutanix-to-layoff-5-percent-of-global-workforce-here-s-why,Post-IPO,1100,United States,8/4/2026
+FalconX,SF Bay Area,,8/3/2026,0.1,Crypto,https://cryptobriefing.com/falconx-cuts-workforce-market-downturn/,Series D,477,United States,8/3/2026
+Pump.fun,San Diego,40.0,8/1/2026,,Crypto,https://www.kucoin.com/news/flash/pump-fun-employees-allegedly-laid-off-before-token-vesting-team-unlocks-102m-in-pump-tokens,Unknown,,United States,8/3/2026
 Chime,SF Bay Area,150.0,7/31/2026,0.1,Finance,https://www.bankingdive.com/news/chime-cut-workforce-10-percent-150-employees-ai-smaller-teams-chris-britt/826730/,Series G,2300,United States,7/31/2026
+ChargePoint,SF Bay Area,144.0,7/31/2026,0.1,Manufacturing,https://www.marketwatch.com/story/chargepoint-holdings-to-cut-10-of-workforce-b0dd44f1,Unknown,1400,United States,8/2/2026
 Lightspeed Commerce,"Montreal, Non-U.S.",100.0,7/31/2026,0.03,Retail,https://betakit.com/lightspeed-narrows-net-loss-beats-revenue-expectations-in-fiscal-q1/,Post-IPO,1200,Canada,7/31/2026
+Reforged Labs,"Singapore, Non-U.S.",,7/31/2026,1.0,Marketing,https://www.techinasia.com/ai-ad-startup-reforged-labs-winds-years,Seed,4,Singapore,8/2/2026
 GoLemon,"Lagos, Non-U.S.",33.0,7/30/2026,1.0,Retail,https://nairametrics.com/2026/07/30/nigerian-startup-golemon-shuts-down-33-jobs-affected/,Unknown,,Nigeria,7/30/2026
 Krutrim,"Bengaluru, Non-U.S.",20.0,7/28/2026,0.5,AI,https://yourstory.com/2026/07/krutrim-lays-off-nearly-half-workforce,Unknown,304,India,7/29/2026
 Luno,"London, Non-U.S.",,7/28/2026,0.2,Crypto,https://www.bloomberg.com/news/articles/2026-07-28/cryptocurrency-exchange-luno-to-cut-20-of-global-staff,Acquired,13,United Kingdom,7/29/2026
@@ -180,6 +193,7 @@ Meta,SF Bay Area,200.0,4/2/2026,,Consumer,https://www.sfchronicle.com/tech/artic
 MARA,Miami,,4/2/2026,0.15,Crypto,https://blockspace.media/insight/bitcoin-miner-mara-conducts-company-wide-layoffs/,Post-IPO,4100,United States,5/10/2026
 Sonos,Santa Barbara,,4/1/2026,,Consumer,https://www.bloomberg.com/news/articles/2026-04-01/sonos-makes-marketing-cuts-as-new-cmo-reshapes-division,Post-IPO,455.2,United States,4/7/2026
 Monzo,"London, Non-U.S.",50.0,3/31/2026,,Finance,https://www.bloomberg.com/news/articles/2026-03-31/fintech-monzo-shutting-down-us-operations-to-focus-on-uk-europe,Series F,324,United Kingdom,3/31/2026
+SoundThinking,SF Bay Area,15.0,3/31/2026,,Security,https://ir.soundthinking.com/sec-filings/all-sec-filings/content/0001351636-26-000006/0001351636-26-000006.pdf,Unknown,68,United States,8/3/2026
 Covrzy,"Bengaluru, Non-U.S.",,3/31/2026,1.0,Finance,https://inc42.com/buzz/antler-backed-covrzy-shuts-down-due-to-cash-crunch/,Seed,,India,4/4/2026
 Rec Room,Seattle,,3/31/2026,1.0,Consumer,https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/,Series F,294,United States,4/1/2026
 Yupp,SF Bay Area,,3/31/2026,1.0,AI,https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/,Seed,33,United States,4/1/2026
