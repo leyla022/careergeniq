@@ -1,9 +1,17 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Bitwise,SF Bay Area,25.0,8/12/2026,0.14,Crypto,https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522,Unknown,154,United States,8/13/2026
+Convictional,"Waterloo, Non-U.S.",,8/12/2026,1.0,Other,https://betakit.com/convictional-to-shut-down-return-investor-money-after-ai-era-pivot-falls-short/,Series B,49,Canada,8/13/2026
+LinkedIn,"Tel Aviv, Non-U.S.",50.0,8/11/2026,,Recruiting,https://www.calcalistech.com/ctechnews/article/rjrwxydizg,Acquired,154,Israel,8/12/2026
+Rapid7,Boston,313.0,8/10/2026,0.12,Security,https://www.bizjournals.com/boston/news/2026/08/10/rapid7-layoffs-new-ceo.html,Post-IPO,89,United States,8/11/2026
+Validient,"Sydney, Non-U.S.",,8/10/2026,1.0,Other,https://www.linkedin.com/posts/ieuanleigh_my-first-startup-validient-has-officially-activity-7492505033595432961-ZHdE,Unknown,,Australia,8/11/2026
+ClimateAI,SF Bay Area,,8/8/2026,1.0,Other,https://agfundernews.com/climate-resilience-platform-climateai-winds-down-operations,Series B,38,United States,8/11/2026
+Salesforce,SF Bay Area,133.0,8/7/2026,,Sales,https://thenextweb.com/news/salesforce-133-layoffs-washington-california-ai-restructuring,Post-IPO,65,United States,8/11/2026
 VideoAmp,Los Angeles,50.0,8/7/2026,0.2,Marketing,https://www.wsj.com/cmo-today/videoamp-cuts-staff-as-ai-agents-take-center-stage-ef6f44d1,Series F,456,United States,8/7/2026
 TikTok,Nashville,250.0,8/6/2026,,Consumer,https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html,Acquired,,United States,8/6/2026
 Etsy,New York City,220.0,8/5/2026,0.12,Retail,https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html,Post-IPO,97,United States,8/5/2026
 Google,SF Bay Area,52.0,8/5/2026,,Consumer,https://www.geekwire.com/2026/google-to-cut-52-employees-in-washington-state/,Post-IPO,26,United States,8/6/2026
 LegalZoom,Austin,,8/5/2026,0.13,Legal,https://finance.yahoo.com/markets/stocks/articles/legalzoom-com-inc-q2-2026-025809440.html,Post-IPO,952,United States,8/7/2026
+Proof of Play,New York City,,8/5/2026,1.0,Consumer,https://www.blockchaingamer.biz/amp/news/42740/proof-of-play-shuts-down/,Seed,33,United States,8/13/2026
 Zillow,Seattle,500.0,8/4/2026,0.07,Real Estate,https://www.geekwire.com/2026/zillow-cuts-more-than-500-jobs-in-its-largest-layoff-of-the-year/,Post-IPO,97,United States,8/4/2026
 80 Acres Farms,Cincinnati,,8/4/2026,1.0,Food,https://agfundernews.com/indoor-ag-heavyweight-80-acres-farms-to-cease-operations,Unknown,275,United States,8/4/2026
 jalebi.io,"Dubai, Non-U.S.",,8/4/2026,1.0,Food,https://jawlah.co/en/61711,Seed,,UAE,8/4/2026
@@ -375,7 +383,7 @@ Scope3,New York City,,9/5/2025,,Energy,https://www.adweek.com/media/scope3-lays-
 Head Digital Works,"Hyderabad, Non-U.S.",500.0,9/4/2025,,Consumer,https://entrackr.com/news/a23-parent-lays-off-500-employees-following-rmg-ban-report-9901016,Private Equity,74,India,9/8/2025
 Salesforce,SF Bay Area,262.0,9/4/2025,,Sales,https://www.kron4.com/news/bay-area/salesforce-laying-off-262-employees-in-san-francisco-after-ceo-praises-ai/,Post-IPO,65,United States,9/8/2025
 Oracle,SF Bay Area,254.0,9/4/2025,,Other,https://www.kron4.com/news/technology-ai/oracle-bay-area-layoffs/,Post-IPO,,United States,9/8/2025
-GupShup,SF Bay Area,100.0,9/4/2025,,Other,https://inc42.com/buzz/exclusive-gupshup-lays-off-100-employees-in-cost-cutting-exercise/,Series F,484,India,9/8/2025
+GupShup,SF Bay Area,100.0,9/4/2025,,Other,https://inc42.com/buzz/exclusive-gupshup-lays-off-100-employees-in-cost-cutting-exercise/,Series F,484,United States,9/8/2025
 Bobble AI,"New Delhi, Non-U.S.",50.0,9/4/2025,,Consumer,https://entrackr.com/exclusive/exclusive-bobble-ai-lays-off-50-employees-amid-organizational-redesign-9888363,Unknown,59,India,9/8/2025
 Oracle,Seattle,101.0,9/3/2025,,Other,https://www.seattletimes.com/business/cloud-computing-giant-oracle-lays-off-more-seattle-workers/,Post-IPO,,United States,9/8/2025
 Salesforce,Seattle,93.0,9/3/2025,,Sales,https://www.seattletimes.com/business/seattle-area-tech-layoffs-mount-with-salesforce-and-oracle-job-cuts/,Post-IPO,65,United States,9/8/2025
@@ -502,7 +510,7 @@ Zopper,"Noida, Non-U.S.",100.0,4/17/2025,,Finance,https://inc42.com/buzz/elevati
 Turo,SF Bay Area,150.0,4/16/2025,0.17,Transportation,https://www.bloomberg.com/news/articles/2025-04-16/car-rental-startup-turo-cuts-15-of-workers-after-icing-ipo,Series E,467,United States,4/16/2025
 AppLovin,SF Bay Area,97.0,4/16/2025,,Marketing,https://www.pocketgamer.biz/applovin-lays-off-97-staff/,Post-IPO,1600,United States,4/19/2025
 Smashing,SF Bay Area,7.0,4/16/2025,1.0,Consumer,https://techcrunch.com/2025/04/16/smashing-the-reading-curation-app-by-goodreads-founder-shuts-down/,Seed,3,United States,4/18/2025
-GupShup,SF Bay Area,200.0,4/15/2025,,Other,https://inc42.com/buzz/exclusive-saas-unicorn-gupshup-fires-500-employees/,Series F,484,India,4/16/2025
+GupShup,SF Bay Area,200.0,4/15/2025,,Other,https://inc42.com/buzz/exclusive-saas-unicorn-gupshup-fires-500-employees/,Series F,484,United States,4/16/2025
 Sonder,SF Bay Area,,4/14/2025,,Travel,https://skift.com/2025/04/14/sonder-announces-50-million-in-layoffs-and-spending-cuts-ahead-of-marriott-integration/,Post-IPO,839,United States,4/16/2025
 Forto,"Berlin, Non-U.S.",200.0,4/12/2025,,Logistics,https://www.businessinsider.de/gruenderszene/automotive-mobility/forto-entlassungen-gruende/,Series D,593,Germany,4/16/2025
 Google,SF Bay Area,,4/11/2025,,Consumer,https://www.reuters.com/technology/google-lays-off-hundreds-employees-android-pixel-group-information-reports-2025-04-11/,Post-IPO,26,United States,4/16/2025
@@ -543,7 +551,7 @@ Autodesk,SF Bay Area,1350.0,2/27/2025,0.09,Other,https://www.cnbc.com/2025/02/27
 Digimarc,Portland,90.0,2/27/2025,0.4,Other,https://www.oregonlive.com/silicon-forest/2025/02/digimarc-shares-plunge-as-oregon-company-lays-off-40-of-its-staff.html,Post-IPO,105,United States,3/5/2025
 Google,SF Bay Area,,2/27/2025,,Consumer,https://www.cnbc.com/2025/02/27/google-makes-cuts-to-hr-and-cloud-units.html,Post-IPO,26,United States,2/28/2025
 Flywire,Boston,125.0,2/26/2025,,Finance,https://www.bostonglobe.com/2025/02/26/business/student-visa-cutback-flywire-stock-price/,Series E,263,United States,3/1/2025
-eBay,"Tel Aviv, Non-U.S.",20.0,2/26/2025,,Retail,https://www.calcalistech.com/ctechnews/article/bjgsl8n9yl,Post-IPO,1200,Israel,2/28/2025
+eBay,"Tel Aviv, Non-U.S.",20.0,2/26/2025,,Retail,https://www.calcalistech.com/ctechnews/article/bjgsl8n9yl,Post-IPO,1200,United States,2/28/2025
 Commercetools,"Munich, Non-U.S.",,2/26/2025,0.1,Retail,https://techcrunch.com/2025/02/26/commercetools-a-pioneer-in-headless-commerce-lays-off-dozens-of-staff/,Series C,119,Germany,2/28/2025
 Dayforce,"Toronto, Non-U.S.",,2/26/2025,0.05,HR,https://www.marketwatch.com/story/dayforce-to-cut-about-5-of-workforce-in-efficiency-drive-2eabda38?mod=investing,Post-IPO,40,Canada,2/28/2025
 Expedia,Seattle,,2/26/2025,,Travel,https://www.geekwire.com/2025/expedia-confirms-layoffs-at-seattle-travel-giant/,Post-IPO,3300,United States,2/28/2025
@@ -620,7 +628,7 @@ Cloud Software Group,SF Bay Area,,1/7/2025,,Other,https://www.crn.com/news/cloud
 Microsoft,Seattle,,1/7/2025,,Other,https://www.businessinsider.com/microsoft-plans-job-cuts-performance-management-2025-1,Post-IPO,1,United States,1/11/2025
 SolarEdge,"Tel Aviv, Non-U.S.",400.0,1/6/2025,,Energy,https://www.reuters.com/business/energy/solaredge-technologies-lay-off-400-employees-globally-2025-01-06/,Post-IPO,155,Israel,1/8/2025
 Level,New York City,,1/2/2025,1.0,Finance,https://www.pymnts.com/acquisitions/2025/report-benefits-startup-level-shuts-down-after-acquisition-falls-through,Series B,27,United States,1/4/2025
-GupShup,SF Bay Area,300.0,12/31/2024,,Other,https://inc42.com/buzz/exclusive-saas-unicorn-gupshup-fires-500-employees/,Series F,484,India,4/16/2025
+GupShup,SF Bay Area,300.0,12/31/2024,,Other,https://inc42.com/buzz/exclusive-saas-unicorn-gupshup-fires-500-employees/,Series F,484,United States,4/16/2025
 Brave Care,Portland,,12/31/2024,1.0,Healthcare,https://www.oregonlive.com/health/2024/12/portland-pediatrics-startup-brave-care-shutters-permanently.html,Series B,43,United States,1/4/2025
 Epicery,"Paris, Non-U.S.",,12/31/2024,1.0,Food,https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/,Acquired,7,France,1/4/2025
 Bench,"Vancouver, Non-U.S.",450.0,12/27/2024,1.0,Finance,https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/,Series C,109,Canada,12/28/2024
@@ -1805,7 +1813,7 @@ TADA,"Seoul, Non-U.S.",45.0,6/15/2023,0.6,Transportation,https://techcrunch.com/
 Binance.US,SF Bay Area,,6/15/2023,,Crypto,https://www.reuters.com/technology/crypto-giant-binances-us-affiliate-fires-staff-after-sec-charges-sources-2023-06-15/,Subsidiary,,United States,6/16/2023
 Cerner,Kansas City,,6/15/2023,,Healthcare,https://www.businessinsider.com/oracle-conducts-layoffs-cerner-health-unit-2023-6,Acquired,,United States,6/19/2023
 FrontRow,"Bengaluru, Non-U.S.",,6/15/2023,0.9,Education,https://inc42.com/buzz/lightspeed-backed-edtech-frontrow-acquisition-laying-off-90-employees/,Series A,17,India,6/16/2023
-Bitwise,SF Bay Area,900.0,6/14/2023,1.0,Crypto,https://www.bakersfield.com/news/bitwise-lays-off-entire-staff/article_57c2a40c-0b12-11ee-84ca-f7e6d77ee2e9.html,Series B,84,United States,6/16/2023
+Bitwise Industries,SF Bay Area,900.0,6/14/2023,1.0,Education,https://www.bakersfield.com/news/bitwise-lays-off-entire-staff/article_57c2a40c-0b12-11ee-84ca-f7e6d77ee2e9.html,Series C,158,United States,6/16/2023
 Sonos,New York City,130.0,6/14/2023,0.07,Consumer,https://www.cnbc.com/2023/06/14/sonos-layoffs-company-cuts-7percent-or-about-130-employees.html,Post-IPO,455.2,United States,6/14/2023
 TrueCar,Los Angeles,102.0,6/14/2023,0.24,Transportation,https://techcrunch.com/2023/06/14/truecar-lays-off-102-employees-taps-new-ceo-amid-restructure/,Post-IPO,340,United States,6/15/2023
 Olo,New York City,81.0,6/14/2023,0.11,Food,https://www.restaurantbusinessonline.com/technology/olo-lays-81-people-part-reorganization,Post-IPO,184,United States,6/14/2023
@@ -3568,7 +3576,7 @@ StockX,Detroit,120.0,6/28/2022,0.08,Retail,https://www.theinformation.com/briefi
 Sidecar Health,Los Angeles,110.0,6/28/2022,0.4,Healthcare,Internal memo,Series C,163,United States,7/18/2022
 StockX,Detroit,80.0,6/28/2022,,Retail,https://www.complex.com/sneakers/stockx-layoffs-november-2022,Series E,690,United States,11/3/2022
 Vezeeta,"Dubai, Non-U.S.",50.0,6/28/2022,0.1,Healthcare,https://techcrunch.com/2022/06/28/egyptian-healthtech-startup-vezeeta-cuts-10-of-500-person-staff/?tpcc=tcplustwitter,Series D,71,United Arab Emirates,6/29/2022
-Bright Machines,SF Bay Area,30.0,6/28/2022,0.08,Data,https://www.calcalist.co.il/calcalistech/article/rkkjpsuc5,Unknown,250,Israel,6/29/2022
+Bright Machines,"Tel Aviv, Non-U.S.",30.0,6/28/2022,0.08,Data,https://www.calcalist.co.il/calcalistech/article/rkkjpsuc5,Unknown,250,Israel,6/29/2022
 HealthMatch,"Sydney, Non-U.S.",18.0,6/28/2022,0.5,Healthcare,https://www.smh.com.au/business/entrepreneurship/i-m-heartbroken-wave-of-layoffs-begins-as-start-ups-fight-for-survival-20220628-p5ax6a.html,Series B,20,Australia,6/29/2022
 Booktopia,"Sydney, Non-U.S.",,6/28/2022,,Retail,https://www.smh.com.au/business/entrepreneurship/i-m-heartbroken-wave-of-layoffs-begins-as-start-ups-fight-for-survival-20220628-p5ax6a.html,Series A,23,Australia,6/29/2022
 Nova Benefits,"Bengaluru, Non-U.S.",,6/28/2022,0.3,Healthcare,https://entrackr.com/2022/06/exclusive-nova-benefits-lays-off-30-of-its-workforce/,Series B,41,India,6/30/2022
