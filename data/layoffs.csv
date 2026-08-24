@@ -1,13 +1,25 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Apple,SF Bay Area,200.0,8/21/2026,,Hardware,https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams,Post-IPO,1200,United States,8/21/2026
+Motive,SF Bay Area,251.0,8/19/2026,0.05,Transportation,Internal memo,Series F,567,United States,8/20/2026
+Tiktok,Los Angeles,75.0,8/19/2026,,Consumer,https://www.geekwire.com/2026/tiktok-cuts-75-jobs-in-seattle-area-hitting-e-commerce-teams/,Acquired,,United States,8/20/2026
+Vast,Los Angeles,46.0,8/19/2026,0.04,Aerospace,https://www.businessinsider.com/space-station-startup-vast-cuts-jobs-layoffs-2026-8,Series A,650,United States,8/21/2026
+BlocPower,New York City,,8/19/2026,1.0,Energy,https://www.latitudemedia.com/news/scoop-blocpower-is-shutting-down/,Unknown,268,United States,8/20/2026
+Qualtrics,Salt Lake City,,8/19/2026,,Other,https://www.geekwire.com/2026/qualtrics-cuts-jobs-in-seattle-utah-and-overseas-as-it-absorbs-6-75b-acquisition/,Acquired,400,United States,8/20/2026
+Pentera,Boston,60.0,8/17/2026,0.14,Security,https://www.calcalistech.com/ctechnews/article/cri3dnoqo,Series D,249,United States,8/18/2026
+Relay,SF Bay Area,,8/17/2026,1.0,Other,https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/,Seed,8,United States,8/18/2026
+Anaconda,Austin,,8/13/2026,0.14,Data,https://www.anaconda.com/blog/open-letter-to-our-community-customers-and-partners,Series C,233,United States,8/18/2026
+Netflix,SF Bay Area,,8/13/2026,,Media,https://www.polygon.com/netflix-shutting-down-game-studios/,Post-IPO,121900,United States,8/18/2026
 Bitwise,SF Bay Area,25.0,8/12/2026,0.14,Crypto,https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522,Unknown,154,United States,8/13/2026
 Convictional,"Waterloo, Non-U.S.",,8/12/2026,1.0,Other,https://betakit.com/convictional-to-shut-down-return-investor-money-after-ai-era-pivot-falls-short/,Series B,49,Canada,8/13/2026
 LinkedIn,"Tel Aviv, Non-U.S.",50.0,8/11/2026,,Recruiting,https://www.calcalistech.com/ctechnews/article/rjrwxydizg,Acquired,154,Israel,8/12/2026
 Rapid7,Boston,313.0,8/10/2026,0.12,Security,https://www.bizjournals.com/boston/news/2026/08/10/rapid7-layoffs-new-ceo.html,Post-IPO,89,United States,8/11/2026
+N-able Technologies,"Toronto, Non-U.S.",120.0,8/10/2026,0.06,Other,https://www.marketbeat.com/instant-alerts/n-able-q2-earnings-call-highlights-2026-08-10/,Post-IPO,225,Canada,8/21/2026
 Validient,"Sydney, Non-U.S.",,8/10/2026,1.0,Other,https://www.linkedin.com/posts/ieuanleigh_my-first-startup-validient-has-officially-activity-7492505033595432961-ZHdE,Unknown,,Australia,8/11/2026
 ClimateAI,SF Bay Area,,8/8/2026,1.0,Other,https://agfundernews.com/climate-resilience-platform-climateai-winds-down-operations,Series B,38,United States,8/11/2026
 Salesforce,SF Bay Area,133.0,8/7/2026,,Sales,https://thenextweb.com/news/salesforce-133-layoffs-washington-california-ai-restructuring,Post-IPO,65,United States,8/11/2026
 VideoAmp,Los Angeles,50.0,8/7/2026,0.2,Marketing,https://www.wsj.com/cmo-today/videoamp-cuts-staff-as-ai-agents-take-center-stage-ef6f44d1,Series F,456,United States,8/7/2026
 TikTok,Nashville,250.0,8/6/2026,,Consumer,https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html,Acquired,,United States,8/6/2026
+Infineon,"Munich, Non-U.S.",98.0,8/6/2026,,Manufacturing,https://www.abc15.com/news/business/german-semiconductor-firm-shutters-mesa-plant-lays-off-workers,Post-IPO,1500,Germany,8/18/2026
 Etsy,New York City,220.0,8/5/2026,0.12,Retail,https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html,Post-IPO,97,United States,8/5/2026
 Google,SF Bay Area,52.0,8/5/2026,,Consumer,https://www.geekwire.com/2026/google-to-cut-52-employees-in-washington-state/,Post-IPO,26,United States,8/6/2026
 LegalZoom,Austin,,8/5/2026,0.13,Legal,https://finance.yahoo.com/markets/stocks/articles/legalzoom-com-inc-q2-2026-025809440.html,Post-IPO,952,United States,8/7/2026
@@ -865,6 +877,7 @@ Upside Foods,SF Bay Area,26.0,7/1/2024,,Food,https://www.wired.com/story/leading
 Sightful,"Tel Aviv, Non-U.S.",20.0,7/1/2024,0.33,Hardware,https://www.calcalistech.com/ctechnews/article/rkeyfjlv0,Unknown,61,Israel,7/3/2024
 Cint,"Stockholm, Non-U.S.",,7/1/2024,,Data,https://investors.cint.com/en/press/organizational-changes-cint-group-2248206,Post-IPO,17,Sweden,7/3/2024
 Ninja Van,"Singapore, Non-U.S.",,7/1/2024,0.05,Transportation,https://www.theedgesingapore.com/news/company-news/second-round-layoffs-ninja-van-less-three-months-5-singapore-staff-affected,Series E,974,Singapore,7/3/2024
+SoundThinking,SF Bay Area,,6/30/2024,0.03,Security,https://www.sec.gov/ix,Unknown,68,United States,8/18/2026
 Priceline,Norwalk,103.0,6/28/2024,0.07,Travel,https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Priceline-chops-more-than-100-jobs,Acquired,77,United States,7/3/2024
 RealPage,Dallas,260.0,6/27/2024,0.04,Real Estate,https://www.bisnow.com/national/news/multifamily/realpage-to-lay-off-4-of-its-workforce-price-fixing-allegations-124885,Acquired,105,United States,7/3/2024
 Planet,SF Bay Area,180.0,6/26/2024,0.17,Aerospace,https://spacenews.com/planet-lays-off-17-of-workforce/,Post-IPO,574,United States,6/29/2024
