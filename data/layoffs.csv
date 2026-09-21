@@ -1,4 +1,11 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Trustly,"Stockholm, Non-U.S.",200.0,9/17/2026,,Finance,https://tech.eu/2026/09/17/swedish-fintech-trustly-to-cut-around-200-jobs/,Acquired,28,Sweden,9/17/2026
+Bluevine,"Bengaluru, Non-U.S.",80.0,9/17/2026,,Finance,https://www.ndtv.com/offbeat/team-of-80-indian-employees-laid-off-in-brutal-5-minute-google-meet-call-by-us-firm-12059279,Unknown,769,India,9/17/2026
+Pulley,SF Bay Area,,9/15/2026,1.0,Finance,https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9,Series B,50,United States,9/16/2026
+Oracle,SF Bay Area,,9/14/2026,,Other,https://www.businessinsider.com/oracle-begins-new-round-of-layoffs-2026-9,Post-IPO,,United States,9/16/2026
+Bitcoin Suisse,"Zurich, Non-U.S.",60.0,9/11/2026,0.5,Crypto,https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/,Series A,,Switzerland,9/14/2026
+Booksy,"Warsaw, Non-U.S.",200.0,9/10/2026,0.2,Consumer,https://www.linkedin.com/posts/sbatory_today-i-shared-the-difficult-news-with-the-share-7503823245129916416-PA2N/,Series B,204,Poland,9/14/2026
+PhonePe,SF Bay Area,7.0,9/10/2026,,Finance,https://timesofindia.indiatimes.com/business/india-business/ipo-bound-phonepe-shuts-us-engineering-office-after-four-years/articleshow/134012160.cms,Acquired,3200,United States,9/14/2026
 Neo Financial,"Calgary, Non-U.S.",102.0,9/8/2026,0.1,Finance,https://www.linkedin.com/pulse/important-changes-our-busines-neo-financial-3fdsc,Series D,544,Canada,9/9/2026
 Samsung,"Gurugram, Non-U.S.",80.0,9/8/2026,,Hardware,https://timesofindia.indiatimes.com/business/india-business/samsung-india-cuts-80-100-jobs-as-chip-prices-more-than-double-and-smartphone-volumes-fall-11-12-another-round-may-come-after-diwali-up-to-25-of-electronics-sales-and-marketing-staff-at-risk/articleshow/133911104.cms,Post-IPO,,India,9/9/2026
 Harrison.ai,"Melbourne, Non-U.S.",,9/7/2026,,Healthcare,https://www.abc.net.au/news/2026-09-08/harrison-ai-lays-off-australian-staff-after-32m-investment/107110480,Series C,253,Australia,9/9/2026
@@ -18,6 +25,7 @@ Zomato,"Hyderabad, Non-U.S.",250.0,8/31/2026,,Food,https://timesofindia.indiatim
 PayPal,"Dublin, Non-U.S.",164.0,8/31/2026,,Finance,https://www.thejournal.ie/paypal-ireland-layoffs-7147657-Aug2026/,Post-IPO,216,Ireland,8/31/2026
 Amazon,Seattle,121.0,8/31/2026,,Retail,https://www.geekwire.com/2026/amazon-lays-off-121-workers-across-corporate-and-fulfillment-jobs-in-washington-state/,Post-IPO,8100,United States,8/31/2026
 Satvacart,"Gurugram, Non-U.S.",,8/31/2026,1.0,Food,https://inc42.com/buzz/online-grocery-startup-satvacart-shuts-down-after-12-year-run/,Seed,2,India,8/31/2026
+Cubic3,"Dublin, Non-U.S.",70.0,8/28/2026,,Transportation,https://www.businesspost.ie/tech/softbank-backed-cubic3-to-axe-70-jobs-most-of-them-in-dublin/,Unknown,,Ireland,9/14/2026
 Even Healthcare,"Bengaluru, Non-U.S.",350.0,8/27/2026,0.3,Healthcare,https://entrackr.com/exclusive/exclusive-even-healthcare-lays-off-350-employees-12443475,Series A,91,India,8/28/2026
 MonieWorld,"Lagos, Non-U.S.",,8/26/2026,1.0,Finance,https://thecondia.com/moniepoint-monieworld-uk-remittance-shutdown/,Unknown,,Nigeria,8/28/2026
 PagerDuty,SF Bay Area,,8/26/2026,0.15,Product,https://d18rn0p25nwr6d.cloudfront.net/CIK-0001568100/ef65be69-91be-46e6-b592-f9f5e7e1feab.pdf,Post-IPO,173,United States,8/28/2026
