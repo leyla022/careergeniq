@@ -1,4 +1,10 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Thinkific,"Vancouver, Non-U.S.",96.0,9/23/2026,,Education,https://investors.thinkific.com/2026-09-23-Thinkific-Reorganizes-to-Focus-Investments-on-Growth-Opportunities-and-Maximize-Free-Cash-Flow,Post-IPO,22,Canada,9/24/2026
+Intel,Sacramento,52.0,9/23/2026,,Hardware,https://www.kron4.com/news/technology-ai/intel-cuts-dozens-of-bay-area-jobs-in-latest-layoffs/,Post-IPO,12,United States,9/23/2026
+Microsoft,Seattle,500.0,9/22/2026,,Other,https://www.businessinsider.com/microsoft-starts-a-new-round-of-job-cuts-2026-9,Post-IPO,1,United States,9/23/2026
+Expedia,Seattle,58.0,9/22/2026,,Travel,https://www.geekwire.com/2026/expedia-group-laying-off-58-employees-in-washington-state-in-latest-cuts-at-travel-giant/,Post-IPO,3300,United States,9/26/2026
+Apple,SF Bay Area,,9/21/2026,,Hardware,https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0,Post-IPO,1200,United States,9/22/2026
+Redwood Materials,Carson City,135.0,9/20/2026,0.1,Energy,https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/,Series E,4200,United States,9/20/2026
 Trustly,"Stockholm, Non-U.S.",200.0,9/17/2026,,Finance,https://tech.eu/2026/09/17/swedish-fintech-trustly-to-cut-around-200-jobs/,Acquired,28,Sweden,9/17/2026
 Bluevine,"Bengaluru, Non-U.S.",80.0,9/17/2026,,Finance,https://www.ndtv.com/offbeat/team-of-80-indian-employees-laid-off-in-brutal-5-minute-google-meet-call-by-us-firm-12059279,Unknown,769,India,9/17/2026
 Pulley,SF Bay Area,,9/15/2026,1.0,Finance,https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9,Series B,50,United States,9/16/2026
@@ -63,6 +69,7 @@ jalebi.io,"Dubai, Non-U.S.",,8/4/2026,1.0,Food,https://jawlah.co/en/61711,Seed,,
 Nutanix,SF Bay Area,,8/4/2026,0.05,Infrastructure,https://www.crn.com/news/cloud/2026/nutanix-to-layoff-5-percent-of-global-workforce-here-s-why,Post-IPO,1100,United States,8/4/2026
 FalconX,SF Bay Area,,8/3/2026,0.1,Crypto,https://cryptobriefing.com/falconx-cuts-workforce-market-downturn/,Series D,477,United States,8/3/2026
 Pump.fun,San Diego,40.0,8/1/2026,,Crypto,https://www.kucoin.com/news/flash/pump-fun-employees-allegedly-laid-off-before-token-vesting-team-unlocks-102m-in-pump-tokens,Unknown,,United States,8/3/2026
+Sparkgeo,"Vancouver, Non-U.S.",,8/1/2026,,Data,https://www.linkedin.com/posts/willcadell_geospatial-data-infrastructure-activity-7490899357085425664-YHkO,Unknown,,Canada,9/22/2026
 Chime,SF Bay Area,150.0,7/31/2026,0.1,Finance,https://www.bankingdive.com/news/chime-cut-workforce-10-percent-150-employees-ai-smaller-teams-chris-britt/826730/,Series G,2300,United States,7/31/2026
 ChargePoint,SF Bay Area,144.0,7/31/2026,0.1,Manufacturing,https://www.marketwatch.com/story/chargepoint-holdings-to-cut-10-of-workforce-b0dd44f1,Unknown,1400,United States,8/2/2026
 Lightspeed Commerce,"Montreal, Non-U.S.",100.0,7/31/2026,0.03,Retail,https://betakit.com/lightspeed-narrows-net-loss-beats-revenue-expectations-in-fiscal-q1/,Post-IPO,1200,Canada,7/31/2026
