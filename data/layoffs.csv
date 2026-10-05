@@ -1,4 +1,6 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Blaize,SF Bay Area,,9/30/2026,0.26,AI,https://www.tradingview.com/news/seekingalpha:69c32639c094b:0-blaize-to-cut-26-of-workforce-in-restructuring-push/,Post-IPO,307,United States,10/1/2026
+Workday,SF Bay Area,525.0,9/29/2026,0.025,HR,https://seekingalpha.com/news/4648205-workday-reduces-headcount-by-2_5-percent-mainly-affects-product-and-technology-team,Post-IPO,230,United States,10/1/2026
 Thinkific,"Vancouver, Non-U.S.",96.0,9/23/2026,,Education,https://investors.thinkific.com/2026-09-23-Thinkific-Reorganizes-to-Focus-Investments-on-Growth-Opportunities-and-Maximize-Free-Cash-Flow,Post-IPO,22,Canada,9/24/2026
 Intel,Sacramento,52.0,9/23/2026,,Hardware,https://www.kron4.com/news/technology-ai/intel-cuts-dozens-of-bay-area-jobs-in-latest-layoffs/,Post-IPO,12,United States,9/23/2026
 Microsoft,Seattle,500.0,9/22/2026,,Other,https://www.businessinsider.com/microsoft-starts-a-new-round-of-job-cuts-2026-9,Post-IPO,1,United States,9/23/2026
@@ -27,6 +29,7 @@ Bizzabo,New York City,,9/2/2026,,Marketing,https://www.calcalistech.com/ctechnew
 Wonder,New York City,150.0,9/1/2026,0.07,Food,https://www.nrn.com/restaurant-technology/wonder-lays-off-7-of-staff-in-streamlining-effort,Series B,850,United States,9/4/2026
 Amazon,SF Bay Area,148.0,9/1/2026,,Retail,https://www.sfchronicle.com/tech/article/amazon-synopsys-tech-layoffs-22413103.php,Post-IPO,8100,United States,9/2/2026
 Synopsys,SF Bay Area,128.0,9/1/2026,,Other,https://www.sfchronicle.com/tech/article/amazon-synopsys-tech-layoffs-22413103.php,Post-IPO,,United States,9/2/2026
+Ascent Funding,San Diego,,9/1/2026,0.17,Finance,https://www.sandiegoville.com/2026/09/san-diego-best-place-to-work-ascent.html,Series C,86,United States,10/1/2026
 Zomato,"Hyderabad, Non-U.S.",250.0,8/31/2026,,Food,https://timesofindia.indiatimes.com/technology/tech-news/zomato-layoffs-250-jobs-cut-as-company-shuts-customer-support-centre-in-hyderabad/articleshow/133644813.cms,Series J,914,India,8/31/2026
 PayPal,"Dublin, Non-U.S.",164.0,8/31/2026,,Finance,https://www.thejournal.ie/paypal-ireland-layoffs-7147657-Aug2026/,Post-IPO,216,Ireland,8/31/2026
 Amazon,Seattle,121.0,8/31/2026,,Retail,https://www.geekwire.com/2026/amazon-lays-off-121-workers-across-corporate-and-fulfillment-jobs-in-washington-state/,Post-IPO,8100,United States,8/31/2026
