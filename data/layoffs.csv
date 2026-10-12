@@ -1,6 +1,13 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Flock Safety,Atlanta,270.0,10/8/2026,0.18,Security,https://www.reuters.com/business/ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-2026-10-09/,Series I,1200,United States,10/9/2026
+HoneyBook,"Tel Aviv, Non-U.S.",35.0,10/8/2026,0.14,Finance,https://www.calcalistech.com/ctechnews/article/syg9pbhizx,Series E,498,Israel,10/9/2026
+Amazon,Seattle,,10/7/2026,,Retail,https://www.theinformation.com/briefings/amazon-lays-hundreds-stores-division,Post-IPO,8100,United States,10/8/2026
+Hopper,"Montreal, Non-U.S.",,10/7/2026,,Travel,https://newsletters.skift.com/p/hopper-layoffs-and-the-booking-factor,Unknown,730,Canada,10/8/2026
+Hubspot,Boston,660.0,10/6/2026,0.07,Marketing,https://www.hubspot.com/company-news/company-update,Post-IPO,100,United States,10/6/2026
+Anchorage Digital,SF Bay Area,,10/2/2026,0.17,Crypto,https://cryptobriefing.com/anchorage-digital-lays-off-17-percent-staff/,Series D,487,United States,10/6/2026
 Blaize,SF Bay Area,,9/30/2026,0.26,AI,https://www.tradingview.com/news/seekingalpha:69c32639c094b:0-blaize-to-cut-26-of-workforce-in-restructuring-push/,Post-IPO,307,United States,10/1/2026
 Workday,SF Bay Area,525.0,9/29/2026,0.025,HR,https://seekingalpha.com/news/4648205-workday-reduces-headcount-by-2_5-percent-mainly-affects-product-and-technology-team,Post-IPO,230,United States,10/1/2026
+Klaviyo,Boston,,9/28/2026,,Marketing,https://www.bizjournals.com/boston/news/2026/10/01/klaviyo-cuts-roles-in-design-product.html,Unknown,778,United States,10/7/2026
 Thinkific,"Vancouver, Non-U.S.",96.0,9/23/2026,,Education,https://investors.thinkific.com/2026-09-23-Thinkific-Reorganizes-to-Focus-Investments-on-Growth-Opportunities-and-Maximize-Free-Cash-Flow,Post-IPO,22,Canada,9/24/2026
 Intel,Sacramento,52.0,9/23/2026,,Hardware,https://www.kron4.com/news/technology-ai/intel-cuts-dozens-of-bay-area-jobs-in-latest-layoffs/,Post-IPO,12,United States,9/23/2026
 Microsoft,Seattle,500.0,9/22/2026,,Other,https://www.businessinsider.com/microsoft-starts-a-new-round-of-job-cuts-2026-9,Post-IPO,1,United States,9/23/2026
@@ -11,6 +18,7 @@ Trustly,"Stockholm, Non-U.S.",200.0,9/17/2026,,Finance,https://tech.eu/2026/09/1
 Bluevine,"Bengaluru, Non-U.S.",80.0,9/17/2026,,Finance,https://www.ndtv.com/offbeat/team-of-80-indian-employees-laid-off-in-brutal-5-minute-google-meet-call-by-us-firm-12059279,Unknown,769,India,9/17/2026
 Pulley,SF Bay Area,,9/15/2026,1.0,Finance,https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9,Series B,50,United States,9/16/2026
 Oracle,SF Bay Area,,9/14/2026,,Other,https://www.businessinsider.com/oracle-begins-new-round-of-layoffs-2026-9,Post-IPO,,United States,9/16/2026
+Twiga,"Nairobi, Non-U.S.",,9/14/2026,1.0,Food,https://dealroom.co/news/150659-kenyas-twiga-foods-enters-administration-after-35m-lifeline-fails/,Series C,157,Kenya,10/8/2026
 Bitcoin Suisse,"Zurich, Non-U.S.",60.0,9/11/2026,0.5,Crypto,https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/,Series A,,Switzerland,9/14/2026
 Booksy,"Warsaw, Non-U.S.",200.0,9/10/2026,0.2,Consumer,https://www.linkedin.com/posts/sbatory_today-i-shared-the-difficult-news-with-the-share-7503823245129916416-PA2N/,Series B,204,Poland,9/14/2026
 PhonePe,SF Bay Area,7.0,9/10/2026,,Finance,https://timesofindia.indiatimes.com/business/india-business/ipo-bound-phonepe-shuts-us-engineering-office-after-four-years/articleshow/134012160.cms,Acquired,3200,United States,9/14/2026
@@ -131,9 +139,9 @@ Bungie,Seattle,292.0,6/25/2026,,Consumer,https://www.geekwire.com/2026/sony-cuts
 BitGo,SF Bay Area,90.0,6/25/2026,0.15,Crypto,https://x.com/mikebelshe/status/2070240967479996463,Unknown,171,United States,6/26/2026
 Amperity,Seattle,,6/25/2026,,Marketing,https://www.geekwire.com/2026/amperity-hit-with-layoffs-as-ai-changes-the-shape-of-the-customer-data-startup-and-how-it-operates/,Series D,187,United States,6/26/2026
 Sonos,Santa Barbara,,6/25/2026,0.03,Consumer,https://www.bloomberg.com/news/articles/2026-06-25/sonos-cuts-3-of-staff-across-user-experience-product-teams,Post-IPO,455.2,United States,6/27/2026
+Snyk,Boston,203.0,6/24/2026,0.2,Security,https://www.calcalistech.com/ctechnews/article/c48f8h988,Series F,849,United States,6/24/2026
 Cyberbit,"Tel Aviv, Non-U.S.",,6/24/2026,,Security,https://www.calcalistech.com/ctechnews/article/r1wrssfffg,Unknown,,Israel,6/25/2026
 Elastic,SF Bay Area,,6/24/2026,0.07,Data,https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees,Post-IPO,162,United States,6/24/2026
-Snyk,Boston,,6/24/2026,,Security,https://snyk.io/blog/a-note-to-our-customers-and-partners/,Series F,849,United States,6/24/2026
 Oracle,SF Bay Area,21000.0,6/23/2026,0.13,Other,https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html,Post-IPO,,United States,3/31/2026
 Ethereum Foundation,"Zug, Non-U.S.",54.0,6/23/2026,0.2,Crypto,https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus,Unknown,18,Switzerland,6/23/2026
 Lazada Group ,"Singapore, Non-U.S.",,6/23/2026,0.05,Retail,https://www.techinasia.com/lazada-cuts-5-workforce-sea-market-review,Acquired,7200,Singapore,6/23/2026
