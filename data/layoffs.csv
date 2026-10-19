@@ -1,4 +1,11 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Netflix,SF Bay Area,1000.0,10/14/2026,0.06,Media,https://www.cnbc.com/2026/10/14/netflix-layoffs.html,Post-IPO,121900,United States,10/15/2026
+Lightspeed Commerce,"Montreal, Non-U.S.",250.0,10/13/2026,,Retail,https://www.theglobeandmail.com/business/article-montreal-software-lightspeed-job-cuts/,Post-IPO,1200,Canada,10/14/2026
+XM Cyber,"Tel Aviv, Non-U.S.",250.0,10/13/2026,0.62,Security,https://www.calcalistech.com/ctechnews/article/0x146nqil,Acquired,49,Israel,10/15/2026
+ShipHero,New York City,30.0,10/13/2026,,Logistics,https://www.linkedin.com/posts/aaronandml_we-laid-off-or-parted-ways-with-about-30-share-7515916345356517376-H7zG/,Unknown,60,United States,10/15/2026
+Character.AI,SF Bay Area,,10/13/2026,1.0,AI,https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html,Series A,150,United States,10/14/2026
+Airtable,SF Bay Area,,10/12/2026,,Product,https://x.com/fedesimio/status/2109713695165329511,Acquired,1400,United States,10/14/2026
+YoLa Fresh,"Casablanca, Non-U.S.",,10/12/2026,1.0,Food,https://www.techinafrica.com/moroccan-agritech-startup-yola-fresh-shuts-down-after-failing-to-secure-funding/,Seed,9,Morocco,10/14/2026
 Flock Safety,Atlanta,270.0,10/8/2026,0.18,Security,https://www.reuters.com/business/ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-2026-10-09/,Series I,1200,United States,10/9/2026
 HoneyBook,"Tel Aviv, Non-U.S.",35.0,10/8/2026,0.14,Finance,https://www.calcalistech.com/ctechnews/article/syg9pbhizx,Series E,498,Israel,10/9/2026
 Amazon,Seattle,,10/7/2026,,Retail,https://www.theinformation.com/briefings/amazon-lays-hundreds-stores-division,Post-IPO,8100,United States,10/8/2026
