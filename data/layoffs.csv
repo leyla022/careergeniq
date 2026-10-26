@@ -1,4 +1,15 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Loop,Austin,63.0,10/22/2026,,Retail,https://www.linkedin.com/posts/hannah-bravo-545b9123_this-week-we-reorganized-loop-to-move-faster-share-7519092519092080641-mBW2/,Series B,125,United States,10/23/2026
+eBay,SF Bay Area,1100.0,10/21/2026,0.09,Retail,https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/,Post-IPO,1200,United States,10/21/2026
+Electronic Arts,SF Bay Area,400.0,10/21/2026,0.03,Consumer,https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware,Post-IPO,2,United States,10/21/2026
+Vermont Information Processing,Burlington,66.0,10/21/2026,,Food,https://www.vermontpublic.org/local-news/2026-10-21/more-than-60-lose-jobs-colchester-software-firm-ai-push,Acquired,,United States,10/22/2026
+Automattic,SF Bay Area,,10/21/2026,,Other,https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/,Series E,986,United States,10/22/2026
+Dialpad,SF Bay Area,200.0,10/20/2026,,Support,Internal memo,Series F,450,United States,10/22/2026
+PandaDoc,SF Bay Area,,10/20/2026,,Sales,https://www.linkedin.com/posts/siarheibarysiuk_today-is-a-difficult-day-for-pandadoc-weve-share-7518317912701472769-ZhEI/,Series C,57,United States,10/21/2026
+Qualcomm,San Diego,,10/20/2026,,Hardware,https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/,Post-IPO,,United States,10/22/2026
+Carbon Robotics,Seattle,,10/19/2026,,Food,https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/,Series D,164,United States,10/21/2026
+Headspace,Los Angeles,,10/16/2026,,Healthcare,https://bhbusiness.com/2026/10/16/headspace-issues-layoffs-following-sword-health-acquisition/,Acquired,216,United States,10/20/2026
+TomTom,"Amsterdam, Non-U.S.",200.0,10/15/2026,,Other,https://www.tomtom.com/newsroom/press-releases/earnings-other/29691/third-quarter-2026-results/,Post-IPO,430,Netherlands,10/20/2026
 Netflix,SF Bay Area,1000.0,10/14/2026,0.06,Media,https://www.cnbc.com/2026/10/14/netflix-layoffs.html,Post-IPO,121900,United States,10/15/2026
 Lightspeed Commerce,"Montreal, Non-U.S.",250.0,10/13/2026,,Retail,https://www.theglobeandmail.com/business/article-montreal-software-lightspeed-job-cuts/,Post-IPO,1200,Canada,10/14/2026
 XM Cyber,"Tel Aviv, Non-U.S.",250.0,10/13/2026,0.62,Security,https://www.calcalistech.com/ctechnews/article/0x146nqil,Acquired,49,Israel,10/15/2026
