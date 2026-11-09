@@ -1,5 +1,21 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Abridge,SF Bay Area,,11/6/2026,,Healthcare,https://www.modernhealthcare.com/health-tech/mh-abridge-layoffs-realignment-ai/,Series E,757,United States,11/7/2026
+Bria,"Tel Aviv, Non-U.S.",20.0,11/5/2026,0.33,AI,https://www.calcalistech.com/ctechnews/article/5nu7gxmim,Series B,66,Israel,11/7/2026
+Heidi Health,"Melbourne, Non-U.S.",108.0,11/4/2026,0.18,Healthcare,https://www.smh.com.au/technology/ai-start-up-heidi-cuts-jobs-weeks-after-raising-475-million-20261105-p61bl8.html,Series C,432,Australia,11/7/2026
+Block,SF Bay Area,,11/4/2026,,Finance,https://www.businessinsider.com/jack-dorsey-block-layoffs-second-round-job-cuts-cash-app-2026-11,Post-IPO,150,United States,11/7/2026
+Circle,New York City,,11/4/2026,0.05,Crypto,https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671,Post-IPO,2800,United States,11/4/2026
+Explorium,"Tel Aviv, Non-U.S.",,11/4/2026,1.0,Data,https://www.calcalistech.com/ctechnews/article/skvs9uupme,Series C,125,Israel,11/7/2026
+Fiserv,Milwaukee,3000.0,11/3/2026,,Finance,https://www.reuters.com/business/world-at-work/fiserv-cuts-3000-employees-contractor-jobs-under-new-ceo-2026-11-03/,Post-IPO,3200,United States,11/4/2026
+Canva,"Sydney, Non-U.S.",1271.0,11/3/2026,0.22,Consumer,https://www.canva.com/newsroom/news/canva-team-update/,Unknown,2500,Australia,11/3/2026
+Nice,"Tel Aviv, Non-U.S.",500.0,11/3/2026,0.05,Support,https://www.calcalistech.com/ctechnews/article/selqjgkso,Unknown,,Israel,11/4/2026
+Angi,Indianapolis,300.0,11/3/2026,,Consumer,https://ir.angi.com/node/13486/html,Post-IPO,180,United States,11/7/2026
+Squarespace,New York City,300.0,11/2/2026,0.19,Product,https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent,Acquired,578,United States,11/2/2026
+SUSE,"Nuremberg, Non-U.S.",190.0,11/2/2026,0.1,Infrastructure,https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950,Acquired,,Germany,11/4/2026
+Atera,"Tel Aviv, Non-U.S.",30.0,11/2/2026,0.1,Other,https://www.calcalistech.com/ctechnews/article/qcdholfjg,Series B,102,Israel,11/2/2026
+Ollie,San Diego,,10/30/2026,1.0,Consumer,https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/,Seed,7,United States,11/2/2026
+Innodata,"New Delhi, Non-U.S.",550.0,10/29/2026,,Data,https://www.ndtv.com/india-news/us-ai-company-innodata-cuts-nearly-550-jobs-in-india-employees-lose-laptop-access-12248583,Post-IPO,,India,11/2/2026
 Pipedrive,"Tallinn, Non-U.S.",267.0,10/29/2026,,Sales,https://news.err.ee/1610180296/estonian-unicorn-pipedrive-announces-major-restructuring-office-closures,Private Equity,90,Estonia,10/30/2026
+Amazon,Seattle,250.0,10/28/2026,,Retail,https://www.reuters.com/business/world-at-work/amazon-cuts-more-jobs-devices-unit-after-flurry-product-rollouts-2026-10-28/,Post-IPO,8100,United States,11/2/2026
 Dropbox,SF Bay Area,200.0,10/28/2026,0.09,Other,https://www.businessinsider.com/dropbox-layoffs-job-cuts-ceo-memo-ashraf-alkarmi-2026-10,Post-IPO,1700,United States,10/30/2026
 Front,SF Bay Area,,10/27/2026,,Support,https://www.linkedin.com/posts/droconnell_today-is-an-incredibly-painful-day-at-front-share-7520895373083869184-mLEd/,Series D,203,United States,10/28/2026
 SolarEdge,"Tel Aviv, Non-U.S.",200.0,10/26/2026,,Energy,https://www.calcalistech.com/ctechnews/article/q229s4f20,Post-IPO,155,Israel,10/27/2026
@@ -295,6 +311,7 @@ Quandoo,"Berlin, Non-U.S.",,3/26/2026,1.0,Food,https://finance.yahoo.com/markets
 Meta,SF Bay Area,700.0,3/25/2026,0.01,Consumer,https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html?unlocked_article_code=1.V1A.GoAa.Bb73ytbBTorE,Post-IPO,26000,United States,3/25/2026
 Epic Games,Raleigh,1000.0,3/24/2026,,Consumer,https://www.epicgames.com/site/en-US/news/todays-layoffs,Unknown,6400,United States,3/24/2026
 Zendesk,SF Bay Area,100.0,3/24/2026,,Support,Internal memo,Acquired,85,United States,3/31/2026
+Balancer Labs,"Lisbon, Non-U.S.",,3/24/2026,1.0,Crypto,https://www.coindesk.com/tech/2026/03/24/balancer-labs-will-shut-down-as-corporate-entity-became-a-liability-after-usd110-million-exploit,Series A,8,Portugal,11/4/2026
 Flex AI,"Vancouver, Non-U.S.",,3/24/2026,1.0,Fitness,https://betakit.com/personal-training-app-flex-ai-is-shutting-down/,,,Canada,7/27/2026
 OpenText,"Waterloo, Non-U.S.",,3/24/2026,,Data,https://betakit.com/opentext-employees-report-job-cuts-tied-to-apparent-restructuring/,Post-IPO,1100,Canada,3/25/2026
 Spotify,"Stockholm, Non-U.S.",15.0,3/23/2026,,Media,https://variety.com/2026/digital/news/spotify-podcast-layoffs-the-ringer-spotify-studios-1236697019/,Post-IPO,2100,Sweden,3/25/2026
