@@ -1,5 +1,11 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Qualcomm,"Bengaluru, Non-U.S.",1500.0,11/11/2026,,Hardware,https://timesofindia.indiatimes.com/business/india-business/qualcomm-layoffs-1500-employees-in-india-amid-restructuring/amp_articleshow/135741996.cms,Post-IPO,,India,11/14/2026
+Innoviz,"Tel Aviv, Non-U.S.",80.0,11/11/2026,0.2,Transportation,https://www.calcalistech.com/ctechnews/article/j23ch7kvd,Post-IPO,547,Israel,11/14/2026
+Polymarket,New York City,,11/11/2026,,Finance,https://www.reuters.com/business/polymarket-cuts-jobs-contracts-prediction-market-competition-heats-up-2026-11-11/,Series E,2300,United States,11/14/2026
+Val Town,New York City,,11/10/2026,1.0,Product,https://blog.val.town/winding-down,Seed,7,United States,11/14/2026
+Coursera,SF Bay Area,,11/9/2026,0.1,Education,https://ca.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-4957787,Acquired,458,United States,11/14/2026
 Abridge,SF Bay Area,,11/6/2026,,Healthcare,https://www.modernhealthcare.com/health-tech/mh-abridge-layoffs-realignment-ai/,Series E,757,United States,11/7/2026
+ServiceNow,SF Bay Area,,11/6/2026,,Support,https://www.calcalistech.com/ctechnews/article/s1t03axtg,Post-IPO,84,United States,11/10/2026
 Bria,"Tel Aviv, Non-U.S.",20.0,11/5/2026,0.33,AI,https://www.calcalistech.com/ctechnews/article/5nu7gxmim,Series B,66,Israel,11/7/2026
 Heidi Health,"Melbourne, Non-U.S.",108.0,11/4/2026,0.18,Healthcare,https://www.smh.com.au/technology/ai-start-up-heidi-cuts-jobs-weeks-after-raising-475-million-20261105-p61bl8.html,Series C,432,Australia,11/7/2026
 Block,SF Bay Area,,11/4/2026,,Finance,https://www.businessinsider.com/jack-dorsey-block-layoffs-second-round-job-cuts-cash-app-2026-11,Post-IPO,150,United States,11/7/2026
@@ -12,6 +18,7 @@ Angi,Indianapolis,300.0,11/3/2026,,Consumer,https://ir.angi.com/node/13486/html,
 Squarespace,New York City,300.0,11/2/2026,0.19,Product,https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent,Acquired,578,United States,11/2/2026
 SUSE,"Nuremberg, Non-U.S.",190.0,11/2/2026,0.1,Infrastructure,https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950,Acquired,,Germany,11/4/2026
 Atera,"Tel Aviv, Non-U.S.",30.0,11/2/2026,0.1,Other,https://www.calcalistech.com/ctechnews/article/qcdholfjg,Series B,102,Israel,11/2/2026
+Netflix,"London, Non-U.S.",,11/2/2026,,Media,https://deadline.com/2026/11/netflix-uk-layoffs-anna-mallett-1000-layoffs-sarandos-1237211138/,Post-IPO,121900,United Kingdom,11/14/2026
 Ollie,San Diego,,10/30/2026,1.0,Consumer,https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/,Seed,7,United States,11/2/2026
 Innodata,"New Delhi, Non-U.S.",550.0,10/29/2026,,Data,https://www.ndtv.com/india-news/us-ai-company-innodata-cuts-nearly-550-jobs-in-india-employees-lose-laptop-access-12248583,Post-IPO,,India,11/2/2026
 Pipedrive,"Tallinn, Non-U.S.",267.0,10/29/2026,,Sales,https://news.err.ee/1610180296/estonian-unicorn-pipedrive-announces-major-restructuring-office-closures,Private Equity,90,Estonia,10/30/2026
@@ -25,6 +32,7 @@ Electronic Arts,SF Bay Area,400.0,10/21/2026,0.03,Consumer,https://www.bloomberg
 Vermont Information Processing,Burlington,66.0,10/21/2026,,Food,https://www.vermontpublic.org/local-news/2026-10-21/more-than-60-lose-jobs-colchester-software-firm-ai-push,Acquired,,United States,10/22/2026
 Automattic,SF Bay Area,,10/21/2026,,Other,https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/,Series E,986,United States,10/22/2026
 Dialpad,SF Bay Area,200.0,10/20/2026,,Support,Internal memo,Series F,450,United States,10/22/2026
+Basis Technologies,Chicago,79.0,10/20/2026,,Marketing,https://www.linkedin.com/posts/shawn-riegsecker_today-basis-laid-off-79-of-our-colleagues-share-7518454575394095104-bOSY/,Series B,52,United States,11/14/2026
 PandaDoc,SF Bay Area,,10/20/2026,,Sales,https://www.linkedin.com/posts/siarheibarysiuk_today-is-a-difficult-day-for-pandadoc-weve-share-7518317912701472769-ZhEI/,Series C,57,United States,10/21/2026
 Qualcomm,San Diego,,10/20/2026,,Hardware,https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/,Post-IPO,,United States,10/22/2026
 Carbon Robotics,Seattle,,10/19/2026,,Food,https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/,Series D,164,United States,10/21/2026
@@ -43,6 +51,7 @@ Amazon,Seattle,,10/7/2026,,Retail,https://www.theinformation.com/briefings/amazo
 Hopper,"Montreal, Non-U.S.",,10/7/2026,,Travel,https://newsletters.skift.com/p/hopper-layoffs-and-the-booking-factor,Unknown,730,Canada,10/8/2026
 Hubspot,Boston,660.0,10/6/2026,0.07,Marketing,https://www.hubspot.com/company-news/company-update,Post-IPO,100,United States,10/6/2026
 Anchorage Digital,SF Bay Area,,10/2/2026,0.17,Crypto,https://cryptobriefing.com/anchorage-digital-lays-off-17-percent-staff/,Series D,487,United States,10/6/2026
+Workday,SF Bay Area,80.0,10/1/2026,,HR,https://www.businesspost.ie/companies/workday-to-cut-irish-jobs-at-dublin-hq/,Post-IPO,230,United States,11/10/2026
 Blaize,SF Bay Area,,9/30/2026,0.26,AI,https://www.tradingview.com/news/seekingalpha:69c32639c094b:0-blaize-to-cut-26-of-workforce-in-restructuring-push/,Post-IPO,307,United States,10/1/2026
 Workday,SF Bay Area,525.0,9/29/2026,0.025,HR,https://seekingalpha.com/news/4648205-workday-reduces-headcount-by-2_5-percent-mainly-affects-product-and-technology-team,Post-IPO,230,United States,10/1/2026
 Klaviyo,Boston,,9/28/2026,,Marketing,https://www.bizjournals.com/boston/news/2026/10/01/klaviyo-cuts-roles-in-design-product.html,Unknown,778,United States,10/7/2026
@@ -768,6 +777,7 @@ Ola Electric,"Bengaluru, Non-U.S.",500.0,11/22/2024,,Transportation,https://www.
 Adjust,"Berlin, Non-U.S.",304.0,11/22/2024,,Marketing,https://www.pocketgamer.biz/applovin-owned-adjust-lays-off-staff/,Acquired,256,Germany,11/24/2024
 Hopper,"Montreal, Non-U.S.",,11/22/2024,,Travel,https://skift.com/2024/11/22/hopper-restructures-with-job-cuts-for-the-second-time-in-a-year/,Unknown,730,Canada,11/24/2024
 LinkedIn,SF Bay Area,202.0,11/21/2024,0.01,Recruiting,https://www.theinformation.com/briefings/linkedin-lays-off-200-employees,Acquired,154,United States,11/24/2024
+Uplight,Boulder,,11/21/2024,,Energy,https://www.renewableenergyworld.com/power-grid/smart-grids/uplight-executes-large-layoff-after-autogrid-integration/,Unknown,58,United States,11/14/2026
 Headspace,Los Angeles,,11/20/2024,0.13,Healthcare,https://bhbusiness.com/2024/11/20/headspace-axes-13-of-workforce-transition-therapist-network-to-part-time-and-contract-roles/,Unknown,216,United States,11/28/2024
 Own,New York City,,11/19/2024,,Data,https://www.bloomberg.com/news/articles/2024-11-19/salesforce-plans-layoffs-at-acquisition-own-in-strategy-shift,Acquired,507,United States,11/21/2024
 TrueLayer,"London, Non-U.S.",71.0,11/15/2024,0.25,Finance,https://www.cityam.com/former-fintech-unicorn-truelayer-laid-off-a-quarter-of-staff-in-one-day/,Series E,321,United Kingdom,11/21/2024
